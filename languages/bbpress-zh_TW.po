@@ -1,0 +1,5051 @@
+# Copyright (C) 2013 bbPress
+# This file is distributed under the same license as the bbPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: bbPress 2.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bbpress\n"
+"POT-Creation-Date: 2013-11-25 06:51:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-07-01 13:46+0800\n"
+"Last-Translator: Vincent <vincent@webmart.tw>\n"
+"Language-Team: ENGLISH <jjj@bbpress.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+"X-Generator: Poedit 1.6.5\n"
+
+#: bbpress.php:133 bbpress.php:140
+msgid "Cheatin&#8217; huh?"
+msgstr "開玩笑，蛤？"
+
+#: bbpress.php:404 templates/default/bbpress-functions.php:51
+msgid "bbPress Default"
+msgstr "bbPress 首頁"
+
+#: bbpress.php:484
+msgid "bbPress Forums"
+msgstr "bbPress 論壇"
+
+#: bbpress.php:509
+msgid "bbPress Topics"
+msgstr "bbPress 話題"
+
+#: bbpress.php:534
+msgid "bbPress Replies"
+msgstr "bbPress 回覆"
+
+#: bbpress.php:569
+msgctxt "post"
+msgid "Closed"
+msgstr "關閉"
+
+#: bbpress.php:570
+msgctxt "post"
+msgid "Closed <span class=\"count\">(%s)</span>"
+msgid_plural "Closed <span class=\"count\">(%s)</span>"
+msgstr[0] "關閉 <span class=\"count\">(%s)</span>"
+
+#: bbpress.php:580
+msgctxt "post"
+msgid "Spam"
+msgstr "垃圾"
+
+#: bbpress.php:581
+msgctxt "post"
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] "垃圾 <span class=\"count\">(%s)</span>"
+
+#: bbpress.php:593
+msgctxt "post"
+msgid "Orphan"
+msgstr "孤立"
+
+#: bbpress.php:594
+msgctxt "post"
+msgid "Orphan <span class=\"count\">(%s)</span>"
+msgid_plural "Orphans <span class=\"count\">(%s)</span>"
+msgstr[0] "孤立 <span class=\"count\">(%s)</span>"
+
+#: bbpress.php:606
+msgctxt "post"
+msgid "Hidden"
+msgstr "隱藏"
+
+#: bbpress.php:607
+msgctxt "post"
+msgid "Hidden <span class=\"count\">(%s)</span>"
+msgid_plural "Hidden <span class=\"count\">(%s)</span>"
+msgstr[0] "隱藏 <span class=\"count\">(%s)</span>"
+
+#: bbpress.php:677
+msgid "Most popular topics"
+msgstr "最熱門的話題"
+
+#: bbpress.php:689
+msgid "Topics with no replies"
+msgstr "未回覆的話題"
+
+#: includes/admin/admin.php:187 includes/admin/functions.php:243
+#: includes/admin/tools.php:34
+msgid "Repair Forums"
+msgstr "修復論壇"
+
+#: includes/admin/admin.php:188
+msgid "Forum Repair"
+msgstr "討論區修復"
+
+#: includes/admin/admin.php:197 includes/admin/functions.php:247
+#: includes/admin/settings.php:1507
+msgid "Import Forums"
+msgstr "匯入論壇"
+
+#: includes/admin/admin.php:198
+msgid "Forum Import"
+msgstr "匯入討論區"
+
+#: includes/admin/admin.php:207 includes/admin/functions.php:251
+#: includes/admin/tools.php:1132
+msgid "Reset Forums"
+msgstr "重置論壇"
+
+#: includes/admin/admin.php:208
+msgid "Forum Reset"
+msgstr "討論區重置"
+
+#: includes/admin/admin.php:222 includes/admin/admin.php:223
+#: includes/admin/admin.php:233 includes/admin/admin.php:234
+#: includes/admin/users.php:82 includes/common/widgets.php:662
+#: includes/extend/buddypress/loader.php:42
+#: includes/extend/buddypress/loader.php:175
+#: includes/extend/buddypress/loader.php:261
+#: includes/extend/buddypress/loader.php:312 includes/forums/template.php:47
+#: includes/forums/template.php:48
+#: templates/default/bbpress/content-statistics.php:22
+msgid "Forums"
+msgstr "討論區"
+
+#: includes/admin/admin.php:246 includes/admin/admin.php:247
+#: includes/admin/admin.php:255 includes/admin/admin.php:256
+msgid "Welcome to bbPress"
+msgstr "歡迎來到 bbPress"
+
+#: includes/admin/admin.php:269 includes/admin/admin.php:270
+#: includes/admin/admin.php:291 includes/admin/admin.php:292
+#: includes/admin/admin.php:1650 includes/admin/admin.php:1737
+msgid "Update Forums"
+msgstr "更新論壇"
+
+#: includes/admin/admin.php:500
+msgid "Settings"
+msgstr "設定"
+
+#: includes/admin/admin.php:505
+msgid "About"
+msgstr "關於"
+
+#: includes/admin/admin.php:520
+msgid "Right Now in Forums"
+msgstr "論壇現況"
+
+#: includes/admin/admin.php:537
+msgid "About bbPress"
+msgstr "關於 bbPress"
+
+#: includes/admin/admin.php:1320
+msgctxt "admin color scheme"
+msgid "Green"
+msgstr "綠色"
+
+#: includes/admin/admin.php:1374 includes/admin/admin.php:1398
+msgid "%s - %s"
+msgstr "%s - %s"
+
+#: includes/admin/admin.php:1416 includes/admin/admin.php:1493
+msgid "Welcome to bbPress %s"
+msgstr "歡迎來到 bbPress %s"
+
+#: includes/admin/admin.php:1417
+msgid ""
+"Thank you for updating! bbPress %s is bundled up and ready to weather the "
+"storm of users in your community!"
+msgstr "感謝您的更新 ! bbPress %s 已準備好和您一起共同掀起討論風暴 !"
+
+#: includes/admin/admin.php:1418 includes/admin/admin.php:1495
+msgid "Version %s"
+msgstr "版本 %s"
+
+#: includes/admin/admin.php:1422 includes/admin/admin.php:1499
+msgid "What&#8217;s New"
+msgstr "最新消息"
+
+#: includes/admin/admin.php:1424 includes/admin/admin.php:1501
+msgid "Credits"
+msgstr "貢獻"
+
+#: includes/admin/admin.php:1429
+msgid "Forum Subscriptions"
+msgstr "討論區訂閱"
+
+#: includes/admin/admin.php:1433
+msgid "Subscribe to Forums"
+msgstr "訂閱論壇"
+
+#: includes/admin/admin.php:1434
+msgid "Now your users can subscribe to new topics in specific forums."
+msgstr "現在您的用戶可以訂閱討論區的新話題"
+
+#: includes/admin/admin.php:1438
+msgid "Manage Subscriptions"
+msgstr "管理訂閱"
+
+#: includes/admin/admin.php:1439
+msgid ""
+"Your users can manage all of their subscriptions in one convenient location."
+msgstr "您的用戶可以透過後台輕鬆管理所有的訂閱"
+
+#: includes/admin/admin.php:1445
+msgid "Converters"
+msgstr "轉換器"
+
+#: includes/admin/admin.php:1449
+msgid ""
+"We&#8217;re all abuzz about the hive of new importers, AEF, Drupal, FluxBB, "
+"Kunena Forums for Joomla, MyBB, Phorum, PHPFox, PHPWind, PunBB, SMF, Xenforo "
+"and XMB. Existing importers are now sweeter than honey with improved "
+"importing stickies, topic tags, forum categories and the sting is now gone "
+"if you need to remove imported users."
+msgstr ""
+
+#: includes/admin/admin.php:1455
+msgid "Theme Compatibility"
+msgstr "主題相容性"
+
+#: includes/admin/admin.php:1456
+msgid "Better handling of styles and scripts in the template stack."
+msgstr "模板的樣式和腳本將有更好的操控性"
+
+#: includes/admin/admin.php:1460
+msgid "Polyglot support"
+msgstr "多國語言支援"
+
+#: includes/admin/admin.php:1461
+msgid "bbPress fully supports automatic translation updates."
+msgstr "完全支援自動翻譯更新"
+
+#: includes/admin/admin.php:1465
+msgid "User capabilities"
+msgstr "用戶功能"
+
+#: includes/admin/admin.php:1466
+msgid ""
+"Roles and capabilities have been swept through, cleaned up, and simplified."
+msgstr "角色和能力已經過整理及簡化"
+
+#: includes/admin/admin.php:1472 includes/admin/admin.php:1576
+msgid "Go to Forum Settings"
+msgstr "前往討論區設定"
+
+#: includes/admin/admin.php:1494
+msgid ""
+"Thank you for updating! bbPress %s is waxed, polished, and ready for you to "
+"take it for a lap or two around the block!"
+msgstr ""
+"謝謝您的更新 !  bbPress %s 已經打好蠟、拋過光，正準備好讓駕駛著它在轉一圈或是"
+"遊兩圈街區 !"
+
+#: includes/admin/admin.php:1505
+msgid "bbPress is created by a worldwide swarm of busy, busy bees."
+msgstr "bbPress 是由一群非常忙碌的蜜蜂創建"
+
+#: includes/admin/admin.php:1507
+msgid "Project Leaders"
+msgstr "項目指導"
+
+#: includes/admin/admin.php:1512
+msgid "Founding Developer"
+msgstr "創辦開發者"
+
+#: includes/admin/admin.php:1517
+msgid "Lead Developer"
+msgstr "首席開發人員"
+
+#: includes/admin/admin.php:1522 includes/admin/admin.php:1541
+msgid "Feature Developer"
+msgstr "功能開發人員"
+
+#: includes/admin/admin.php:1527
+msgid "Converter Specialist"
+msgstr "貢獻代碼的開發人員"
+
+#: includes/admin/admin.php:1531
+msgid "Contributing Developers"
+msgstr "特約開發人員"
+
+#: includes/admin/admin.php:1536
+msgid "Bug Testing"
+msgstr "軟體測試"
+
+#: includes/admin/admin.php:1545
+msgid "Core Contributors to bbPress 2.5"
+msgstr "bbPress 2.5 核心貢獻人員"
+
+#: includes/admin/admin.php:1602 includes/admin/admin.php:1624
+msgid "Update Forum"
+msgstr "更新討論區"
+
+#: includes/admin/admin.php:1613 includes/admin/admin.php:1667
+msgid "All done!"
+msgstr "全部完成！"
+
+#: includes/admin/admin.php:1614 includes/admin/admin.php:1668
+msgid "Go Back"
+msgstr "返回"
+
+#: includes/admin/admin.php:1623
+msgid ""
+"You can update your forum through this page. Hit the link below to update."
+msgstr "你可以透過這個頁面更新您的論壇。請點選下面的鏈結開始更新"
+
+#: includes/admin/admin.php:1693
+msgid ""
+"Warning! Problem updating %1$s. Your server may not be able to connect to "
+"sites running on it. Error message: <em>%2$s</em>"
+msgstr ""
+"警告！更新問題 %1$s。您的伺服器無法連接到網站。錯誤資訊 : <em>%2$s</em>"
+
+#: includes/admin/admin.php:1717
+msgid ""
+"If your browser doesn&#8217;t start loading the next page automatically, "
+"click this link:"
+msgstr "如果你的瀏覽器沒有自動跳轉到下一頁，點選此鏈結 :"
+
+#: includes/admin/admin.php:1718
+msgid "Next Forums"
+msgstr "下一論壇"
+
+#: includes/admin/admin.php:1736
+msgid ""
+"You can update all the forums on your network through this page. It works by "
+"calling the update script of each site automatically. Hit the link below to "
+"update."
+msgstr ""
+"你可以透過這個頁面更新您網站上所有的論壇。它會透過腳本自動作業。請點選下面的"
+"鏈結進行更新"
+
+#: includes/admin/converter.php:84
+msgid "Database Settings"
+msgstr "資料庫設定"
+
+#: includes/admin/converter.php:87
+msgid "Select Platform"
+msgstr "選擇平台"
+
+#: includes/admin/converter.php:91
+msgid "Database Server"
+msgstr "資料庫伺服器"
+
+#: includes/admin/converter.php:95
+msgid "Database Port"
+msgstr "資料庫連接埠"
+
+#: includes/admin/converter.php:99
+msgid "Database Name"
+msgstr "資料庫名稱"
+
+#: includes/admin/converter.php:103
+msgid "Database User"
+msgstr "資料庫用戶"
+
+#: includes/admin/converter.php:107
+msgid "Database Password"
+msgstr "資料庫密碼"
+
+#: includes/admin/converter.php:111
+msgid "Table Prefix"
+msgstr "表格前綴"
+
+#: includes/admin/converter.php:115
+msgid "Options"
+msgstr "選項"
+
+#: includes/admin/converter.php:118
+msgid "Rows Limit"
+msgstr "行數限制"
+
+#: includes/admin/converter.php:122
+msgid "Delay Time"
+msgstr "延遲時間"
+
+#: includes/admin/converter.php:126
+msgid "Convert Users"
+msgstr "轉換用戶"
+
+#: includes/admin/converter.php:130
+msgid "Start Over"
+msgstr "重新啓動"
+
+#: includes/admin/converter.php:134
+msgid "Purge Previous Import"
+msgstr "清除上一次匯入"
+
+#: includes/admin/converter.php:223
+msgid "Starting Conversion"
+msgstr "開始轉換"
+
+#: includes/admin/converter.php:248 includes/admin/converter.php:520
+msgid "Conversion Complete"
+msgstr "轉換完成"
+
+#: includes/admin/converter.php:342
+msgid "No data to clean"
+msgstr "沒有任何數據可清理"
+
+#: includes/admin/converter.php:346
+msgid "Deleting previously converted data (%1$s - %2$s)"
+msgstr "刪除之前的轉換資料 (%1$s - %2$s)"
+
+#: includes/admin/converter.php:362
+msgid "No users to convert"
+msgstr "沒有用戶可轉換"
+
+#: includes/admin/converter.php:366
+msgid "Converting users (%1$s - %2$s)"
+msgstr "用戶轉換 (%1$s - %2$s)"
+
+#: includes/admin/converter.php:382
+msgid "No passwords to clear"
+msgstr "沒有密碼可清除"
+
+#: includes/admin/converter.php:386
+msgid "Delete users WordPress default passwords (%1$s - %2$s)"
+msgstr "刪除 WordPress 的用戶預設密碼 (%1$s - %2$s)"
+
+#: includes/admin/converter.php:401
+msgid "No forums to convert"
+msgstr "沒有討論區可轉換"
+
+#: includes/admin/converter.php:405
+msgid "Converting forums (%1$s - %2$s)"
+msgstr "轉換論壇 (%1$s - %2$s)"
+
+#: includes/admin/converter.php:416
+msgid "No forum parents to convert"
+msgstr "沒有可轉換的上層論壇"
+
+#: includes/admin/converter.php:420
+msgid "Calculating forum hierarchy (%1$s - %2$s)"
+msgstr "計算論壇層級 (%1$s - %2$s)"
+
+#: includes/admin/converter.php:431
+msgid "No topics to convert"
+msgstr "沒有可轉換話題"
+
+#: includes/admin/converter.php:435
+msgid "Converting topics (%1$s - %2$s)"
+msgstr "轉換話題 (%1$s - %2$s)"
+
+#: includes/admin/converter.php:446
+msgid "No stickies to stick"
+msgstr "沒有置頂文章"
+
+#: includes/admin/converter.php:450
+msgid "Calculating topic stickies (%1$s - %2$s)"
+msgstr "計算置頂話題 (%1$s - %2$s)"
+
+#: includes/admin/converter.php:461
+msgid "No super stickies to stick"
+msgstr "沒有超級置頂文章"
+
+#: includes/admin/converter.php:465
+msgid "Calculating topic super stickies (%1$s - %2$s)"
+msgstr "計算超級置頂話題(%1$s - %2$s)"
+
+#: includes/admin/converter.php:476
+msgid "No tags to convert"
+msgstr "沒有可轉換標籤"
+
+#: includes/admin/converter.php:480
+msgid "Converting topic tags (%1$s - %2$s)"
+msgstr "轉換話題標籤 (%1$s - %2$s)"
+
+#: includes/admin/converter.php:491
+msgid "No replies to convert"
+msgstr "沒有回覆可轉換"
+
+#: includes/admin/converter.php:495
+msgid "Converting replies (%1$s - %2$s)"
+msgstr "轉換回覆 (%1$s - %2$s)"
+
+#: includes/admin/converter.php:506
+msgid "No reply_to parents to convert"
+msgstr "沒有可轉換的上層回覆"
+
+#: includes/admin/converter.php:510
+msgid "Calculating reply_to parents (%1$s - %2$s)"
+msgstr "計算上層回覆 (%1$s - %2$s)"
+
+#: includes/admin/converters/AEF.php:688
+#: includes/admin/converters/FluxBB.php:643
+#: includes/admin/converters/Invision.php:525
+#: includes/admin/converters/Kunena1.php:543
+#: includes/admin/converters/Kunena2.php:585
+#: includes/admin/converters/Kunena3.php:812
+#: includes/admin/converters/PHPFox3.php:649
+#: includes/admin/converters/PunBB.php:677
+#: includes/admin/converters/SMF.php:656
+#: includes/admin/converters/SimplePress5.php:537
+#: includes/admin/converters/Vanilla.php:535
+#: includes/admin/converters/XMB.php:705
+#: includes/admin/converters/XenForo.php:722
+#: includes/admin/converters/bbPress1.php:636
+#: includes/admin/converters/phpBB.php:816
+#: includes/admin/converters/vBulletin.php:652
+#: includes/admin/converters/vBulletin3.php:652
+msgid "Re: "
+msgstr "回覆 : "
+
+#: includes/admin/forums.php:121 includes/admin/replies.php:132
+#: includes/admin/settings.php:1547 includes/admin/topics.php:132
+msgid "Overview"
+msgstr "概覽"
+
+#: includes/admin/forums.php:123
+msgid ""
+"This screen displays the individual forums on your site. You can customize "
+"the display of this screen to suit your workflow."
+msgstr "此畫面顯示在你網站的個人討論區。您自定義此畫面以適合您的工作流程"
+
+#: includes/admin/forums.php:129 includes/admin/replies.php:140
+#: includes/admin/topics.php:140
+msgid "Screen Content"
+msgstr "畫面內容"
+
+#: includes/admin/forums.php:131 includes/admin/replies.php:142
+#: includes/admin/topics.php:142
+msgid ""
+"You can customize the display of this screen&#8217;s contents in a number of "
+"ways:"
+msgstr "您可以自定義這個畫面的內容顯示於多個地方 :"
+
+#: includes/admin/forums.php:133
+msgid ""
+"You can hide/display columns based on your needs and decide how many forums "
+"to list per screen using the Screen Options tab."
+msgstr ""
+"您可以根據需要在顯示選項標簽中隱藏/顯示某個欄位，或者決定每頁顯示多少個討論區"
+
+#: includes/admin/forums.php:134
+msgid ""
+"You can filter the list of forums by forum status using the text links in "
+"the upper left to show All, Published, or Trashed forums. The default view "
+"is to show all forums."
+msgstr ""
+"您可以在上方左側的地方，根據話題的狀態對回覆進行篩選。包括：全部回覆、已發"
+"佈、待審核、草稿或回收桶回覆等。預設將顯示全部回覆"
+
+#: includes/admin/forums.php:135
+msgid ""
+"You can refine the list to show only forums from a specific month by using "
+"the dropdown menus above the forums list. Click the Filter button after "
+"making your selection. You also can refine the list by clicking on the forum "
+"creator in the forums list."
+msgstr ""
+"你可以使用討論區上方的下拉選單細分該列表，只顯示具體月份的討論區。標記好選擇"
+"後點選篩選按鈕。你也可以透過點選討論區列表裡的建立者细分列表"
+
+#: includes/admin/forums.php:142 includes/admin/replies.php:154
+#: includes/admin/topics.php:153
+msgid "Available Actions"
+msgstr "可用操作"
+
+#: includes/admin/forums.php:144
+msgid ""
+"Hovering over a row in the forums list will display action links that allow "
+"you to manage your forum. You can perform the following actions:"
+msgstr ""
+"懸停在討論區列表的某行時，將會顯示出一些討論區管理鏈結。您可以執行以下操作 :"
+
+#: includes/admin/forums.php:146
+msgid ""
+"<strong>Edit</strong> takes you to the editing screen for that forum. You "
+"can also reach that screen by clicking on the forum title."
+msgstr "<strong>編輯</strong>前往編輯頁面。你可以透過點選討論區上的標題"
+
+#: includes/admin/forums.php:147
+msgid ""
+"<strong>Trash</strong> removes your forum from this list and places it in "
+"the trash, from which you can permanently delete it."
+msgstr "<strong>回收桶</strong> 從列表移除您想永久刪除的討論區到回收桶"
+
+#: includes/admin/forums.php:148
+msgid ""
+"<strong>View</strong> will show you what your draft forum will look like if "
+"you publish it. View will take you to your live site to view the forum. "
+"Which link is available depends on your forum&#8217;s status."
+msgstr ""
+"<strong>預覽</strong> 展示您討論區發佈後的樣子。視圖展示討論區運行的現況。鏈"
+"結取決於您的討論區狀態"
+
+#: includes/admin/forums.php:155 includes/admin/replies.php:169
+#: includes/admin/topics.php:170
+msgid "Bulk Actions"
+msgstr "批量操作"
+
+#: includes/admin/forums.php:157
+msgid ""
+"You can also edit or move multiple forums to the trash at once. Select the "
+"forums you want to act on using the checkboxes, then select the action you "
+"want to take from the Bulk Actions menu and click Apply."
+msgstr ""
+"您可以一次編輯或移除多篇回覆到回收桶。透過複選框選擇你需要處理的回覆，然後用"
+"行動選單選擇你需要的操作，並點選應用"
+
+#: includes/admin/forums.php:158
+msgid ""
+"When using Bulk Edit, you can change the metadata (categories, author, etc.) "
+"for all selected forums at once. To remove a forum from the grouping, just "
+"click the x next to its name in the Bulk Edit area that appears."
+msgstr ""
+"當使用批量編輯，一次性選擇所有回覆改變其屬性數據（類別，作者，等。）從分類中"
+"移除一個討論區塊，只要點選它名稱旁邊的 X 即可"
+
+#: includes/admin/forums.php:163 includes/admin/forums.php:222
+#: includes/admin/replies.php:177 includes/admin/replies.php:234
+#: includes/admin/settings.php:1593 includes/admin/topics.php:178
+#: includes/admin/topics.php:234
+msgid "For more information:"
+msgstr "如需詳細資訊 :"
+
+#: includes/admin/forums.php:164 includes/admin/forums.php:223
+#: includes/admin/replies.php:178 includes/admin/replies.php:235
+#: includes/admin/settings.php:1594 includes/admin/topics.php:179
+#: includes/admin/topics.php:235
+msgid ""
+"<a href=\"http://codex.bbpress.org\" target=\"_blank\">bbPress "
+"Documentation</a>"
+msgstr ""
+"<a href=\"http://codex.bbpress.org\" target=\"_blank\">bbPress 說明文件</a>"
+
+#: includes/admin/forums.php:165 includes/admin/forums.php:224
+#: includes/admin/replies.php:179 includes/admin/replies.php:236
+#: includes/admin/settings.php:1595 includes/admin/topics.php:180
+#: includes/admin/topics.php:236
+msgid ""
+"<a href=\"http://bbpress.org/forums/\" target=\"_blank\">bbPress Support "
+"Forums</a>"
+msgstr ""
+"<a href=\"http://bbpress.org/forums/\" target=\"_blank\">bbPress 支援論壇</a>"
+
+#: includes/admin/forums.php:179
+msgid ""
+"The title field and the big forum editing Area are fixed in place, but you "
+"can reposition all the other boxes using drag and drop, and can minimize or "
+"expand them by clicking the title bar of each box. Use the Screen Options "
+"tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, "
+"Discussion, Slug, Author) or to choose a 1- or 2-column layout for this "
+"screen."
+msgstr ""
+"標題欄位和大版面編輯區是固定的，但你可以拖放其框架，並可以透過標題欄對其進行"
+"放大和縮小。使用螢幕選項卡，取消隱藏框架（摘要，發送引用，自定義字段，討論，"
+"代稱，作者），或選擇 1 或 2 欄佈局螢幕"
+
+#: includes/admin/forums.php:183 includes/admin/replies.php:197
+#: includes/admin/topics.php:198
+msgid "Customizing This Display"
+msgstr "自定義這個顯示"
+
+#: includes/admin/forums.php:189
+msgid "Title and Forum Editor"
+msgstr "討論區及名稱編輯"
+
+#: includes/admin/forums.php:191
+msgid ""
+"<strong>Title</strong> - Enter a title for your forum. After you enter a "
+"title, you&#8217;ll see the permalink below, which you can edit."
+msgstr ""
+"<strong>標題</strong> - 輸入您的討論區標題。 當你輸入標題後，會在下面看到您的"
+"編輯固定鏈結"
+
+#: includes/admin/forums.php:192
+msgid ""
+"<strong>Forum Editor</strong> - Enter the text for your forum. There are two "
+"modes of editing: Visual and HTML. Choose the mode by clicking on the "
+"appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon "
+"in the row to get a second row of controls. The HTML mode allows you to "
+"enter raw HTML along with your forum text. You can insert media files by "
+"clicking the icons above the forum editor and following the directions. You "
+"can go to the distraction-free writing screen via the Fullscreen icon in "
+"Visual mode (second to last in the top row) or the Fullscreen button in HTML "
+"mode (last in the row). Once there, you can make buttons visible by hovering "
+"over the top area. Exit Fullscreen back to the regular forum editor."
+msgstr ""
+"<strong>討論區編輯</strong> - 輸入討論區文字。有兩種編輯模式：可視化與HTML，"
+"透過點選標籤選擇模式，可視化模式带來所見即所得的方案。HTML 模式，允許您輸入 "
+"HTML 代碼到討論區文字裡。您可以透過點選上面的討論區編輯器圖標插入媒體文件。也"
+"可以透過全螢幕圖標進入自由編寫螢幕。全螢幕時，在上方可視區域有選單按鈕，可用"
+"來退出全螢幕回到正常的討論區編輯器"
+
+#: includes/admin/forums.php:195
+msgid ""
+"<strong>Publish</strong> - You can set the terms of publishing your forum in "
+"the Publish box. For Status, Visibility, and Publish (immediately), click on "
+"the Edit link to reveal more options. Visibility includes options for "
+"password-protecting a forum or making it stay at the top of your blog "
+"indefinitely (sticky). Publish (immediately) allows you to set a future or "
+"past date and time, so you can schedule a forum to be published in the "
+"future or backdate a forum."
+msgstr ""
+"<strong>發表</strong> - 您可以在發佈框設定你的討論區發佈條件。對於狀態，是否"
+"可見，發佈（立即），點選編輯鏈結顯示更多選擇。是否可見，是否對討論區設置密碼"
+"或文章長期出現在您的部落格頂部（置頂）。發佈(立即)，允許你設定將來或過去的時"
+"間日期，您可以安排討論區被發布的日期"
+
+#: includes/admin/forums.php:198
+msgid ""
+"<strong>Featured Image</strong> - This allows you to associate an image with "
+"your forum without inserting it. This is usually useful only if your theme "
+"makes use of the featured image as a forum thumbnail on the home page, a "
+"custom header, etc."
+msgstr ""
+"<strong>特色圖片</strong> - 允許給你的討論區一張關聯圖片。當你的主題支援特色"
+"圖片，將會在首頁顯示主題的縮圖，如自定義標題"
+
+#: includes/admin/forums.php:203 includes/admin/forums.php:243
+msgid "Forum Attributes"
+msgstr "討論區屬性"
+
+#: includes/admin/forums.php:205
+msgid "Select the attributes that your forum should have:"
+msgstr "選擇您的討論區應該包含哪些屬性 :"
+
+#: includes/admin/forums.php:207
+msgid ""
+"<strong>Type</strong> indicates if the forum is a category or forum. "
+"Categories generally contain other forums."
+msgstr ""
+"<strong>類型</strong> 如果論壇顯示一個分類或討論區。分類通常包含其他論壇"
+
+#: includes/admin/forums.php:208
+msgid ""
+"<strong>Status</strong> allows you to close a forum to new topics and forums."
+msgstr "<strong>Status</strong> 允許你給新的話題或回覆選擇一個討論區"
+
+#: includes/admin/forums.php:209
+msgid ""
+"<strong>Visibility</strong> lets you pick the scope of each forum and what "
+"users are allowed to access it."
+msgstr "<strong>可見度</strong> 讓你選擇每個討論區允許訪問的用戶範圍"
+
+#: includes/admin/forums.php:210
+msgid ""
+"<strong>Parent</strong> dropdown determines the parent forum. Select the "
+"forum or category from the dropdown, or leave the default (No Parent) to "
+"create the forum at the root of your forums."
+msgstr ""
+"<strong>上層</strong> 透過下拉選單選擇上層討論區。使用下拉選單選擇討論區以及"
+"分類，或預設（無上層）為根討論區建立新區塊"
+
+#: includes/admin/forums.php:211
+msgid "<strong>Order</strong> allows you to order your forums numerically."
+msgstr "<strong>排序</strong> 可讓你對你的討論區進行排序"
+
+#: includes/admin/forums.php:217 includes/admin/replies.php:229
+#: includes/admin/topics.php:229
+msgid "Publish Box"
+msgstr "刊登框"
+
+#: includes/admin/forums.php:409 includes/admin/metaboxes.php:50
+#: includes/admin/metaboxes.php:380 includes/admin/metaboxes.php:434
+#: includes/admin/replies.php:570 includes/admin/settings.php:293
+#: includes/admin/topics.php:633 includes/extend/buddypress/groups.php:52
+#: includes/extend/buddypress/groups.php:53 includes/forums/template.php:49
+#: templates/default/bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr "討論區"
+
+#: includes/admin/forums.php:410 includes/admin/settings.php:222
+#: includes/admin/settings.php:243 includes/admin/topics.php:632
+#: includes/extend/buddypress/activity.php:354
+#: includes/forums/template.php:2589 includes/topics/template.php:47
+#: includes/topics/template.php:48
+#: templates/default/bbpress/content-statistics.php:27
+#: templates/default/bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr "話題"
+
+#: includes/admin/forums.php:411 includes/admin/settings.php:230
+#: includes/admin/settings.php:251 includes/admin/topics.php:634
+#: includes/core/theme-compat.php:646
+#: includes/extend/buddypress/activity.php:355
+#: includes/forums/template.php:2653 includes/replies/template.php:47
+#: includes/replies/template.php:48
+#: templates/default/bbpress/content-statistics.php:32
+#: templates/default/bbpress/loop-forums.php:21
+#: templates/default/bbpress/loop-replies.php:32
+#: templates/default/bbpress/loop-replies.php:70
+#: templates/default/bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr "回覆"
+
+#: includes/admin/forums.php:412
+#: templates/default/bbpress/content-single-topic-lead.php:18
+#: templates/default/bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr "建立者"
+
+#: includes/admin/forums.php:413 includes/admin/replies.php:573
+#: includes/admin/topics.php:637
+msgid "Created"
+msgstr "建立"
+
+#: includes/admin/forums.php:414 includes/admin/topics.php:638
+#: templates/default/bbpress/loop-forums.php:22
+#: templates/default/bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr "新鮮"
+
+#: includes/admin/forums.php:463 includes/forums/template.php:588
+msgid "No Topics"
+msgstr "沒有話題"
+
+#: includes/admin/forums.php:529
+msgid "Forum updated. <a href=\"%s\">View forum</a>"
+msgstr "討論區已更新 <a href=\"%s\">觀看討論區</a>"
+
+#: includes/admin/forums.php:532 includes/admin/replies.php:853
+#: includes/admin/topics.php:923
+msgid "Custom field updated."
+msgstr "自定義欄位已更新"
+
+#: includes/admin/forums.php:535 includes/admin/replies.php:856
+#: includes/admin/topics.php:926
+msgid "Custom field deleted."
+msgstr "自定義欄位已刪除"
+
+#: includes/admin/forums.php:538
+msgid "Forum updated."
+msgstr "討論區已更新"
+
+#. translators: %s: date and time of the revision
+#: includes/admin/forums.php:543
+msgid "Forum restored to revision from %s"
+msgstr "討論區已從修訂版本 %s 還原"
+
+#: includes/admin/forums.php:547
+msgid "Forum created. <a href=\"%s\">View forum</a>"
+msgstr "討論區已建立 <a href=\"%s\">查看討論區</a>"
+
+#: includes/admin/forums.php:550
+msgid "Forum saved."
+msgstr "討論區已儲存"
+
+#: includes/admin/forums.php:553
+msgid "Forum submitted. <a target=\"_blank\" href=\"%s\">Preview forum</a>"
+msgstr "討論區已發表 <a target=\"_blank\" href=\"%s\">預覽討論區</a>"
+
+#: includes/admin/forums.php:556
+msgid ""
+"Forum scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview forum</a>"
+msgstr ""
+"討論區欲發表於 : <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">預"
+"覽討論區</a>"
+
+#. translators: Publish box date format, see http:php.net/date
+#: includes/admin/forums.php:558 includes/admin/replies.php:879
+#: includes/admin/topics.php:949
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: includes/admin/forums.php:563
+msgid "Forum draft updated. <a target=\"_blank\" href=\"%s\">Preview forum</a>"
+msgstr "討論區草稿已更新 <a target=\"_blank\" href=\"%s\">預覽討論區</a>"
+
+#: includes/admin/metaboxes.php:42
+msgid "Discussion"
+msgstr "討論"
+
+#: includes/admin/metaboxes.php:67 includes/admin/metaboxes.php:458
+#: includes/admin/replies.php:571 includes/admin/settings.php:301
+#: includes/topics/template.php:49
+#: templates/default/bbpress/content-single-topic-lead.php:22
+#: templates/default/bbpress/content-single-topic-lead.php:94
+#: templates/default/bbpress/loop-topics.php:19
+msgid "Topic"
+msgid_plural "Topics"
+msgstr[0] "話題"
+
+#: includes/admin/metaboxes.php:84 includes/admin/settings.php:325
+#: includes/replies/template.php:49 includes/replies/template.php:1619
+#: includes/topics/template.php:2923
+msgid "Reply"
+msgid_plural "Replies"
+msgstr[0] "回覆"
+
+#: includes/admin/metaboxes.php:103 includes/admin/settings.php:309
+#: includes/topics/template.php:3369
+msgid "Topic Tag"
+msgid_plural "Topic Tags"
+msgstr[0] "話題標籤"
+
+#: includes/admin/metaboxes.php:127
+msgid "Users &amp; Moderation"
+msgstr "用戶及制度"
+
+#: includes/admin/metaboxes.php:135
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "用戶"
+
+#: includes/admin/metaboxes.php:154
+msgid "Hidden Topic"
+msgid_plural "Hidden Topics"
+msgstr[0] "隱藏話題"
+
+#: includes/admin/metaboxes.php:176
+msgid "Hidden Reply"
+msgid_plural "Hidden Replies"
+msgstr[0] "隱藏回覆"
+
+#: includes/admin/metaboxes.php:198
+msgid "Empty Topic Tag"
+msgid_plural "Empty Topic Tags"
+msgstr[0] "空的話題標籤"
+
+#: includes/admin/metaboxes.php:222
+msgid "You are using <span class=\"b\">bbPress %s</span>."
+msgstr "您正使用 <span class=\"b\">bbPress %s</span>."
+
+#: includes/admin/metaboxes.php:261 includes/admin/metaboxes.php:262
+#: includes/admin/metaboxes.php:355
+msgid "Type:"
+msgstr "類型 :"
+
+#: includes/admin/metaboxes.php:273 includes/admin/metaboxes.php:274
+#: includes/admin/metaboxes.php:367
+#: templates/default/bbpress/form-forum.php:100
+msgid "Status:"
+msgstr "狀態 :"
+
+#: includes/admin/metaboxes.php:285 includes/admin/metaboxes.php:286
+#: templates/default/bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr "能見度 :"
+
+#: includes/admin/metaboxes.php:299
+msgid "Parent:"
+msgstr "上層 :"
+
+#: includes/admin/metaboxes.php:300
+msgid "Forum Parent"
+msgstr "上層討論區"
+
+#: includes/admin/metaboxes.php:314 includes/admin/metaboxes.php:394
+#: includes/admin/metaboxes.php:448
+msgid "&mdash; No parent &mdash;"
+msgstr "&mdash; 無上層 &mdash;"
+
+#: includes/admin/metaboxes.php:321
+msgid "Order:"
+msgstr "順序 :"
+
+#: includes/admin/metaboxes.php:322
+msgid "Forum Order"
+msgstr "討論區順序"
+
+#: includes/admin/metaboxes.php:356
+msgid "Topic Type"
+msgstr "話題類型"
+
+#: includes/admin/metaboxes.php:368
+msgid "Select whether to open or close the topic."
+msgstr "選擇是否可開啟或關閉話題"
+
+#: includes/admin/metaboxes.php:379 includes/admin/metaboxes.php:433
+#: includes/extend/buddypress/groups.php:1038 includes/topics/template.php:61
+#: templates/default/bbpress/form-topic.php:114
+msgid "Forum:"
+msgstr "討論區 :"
+
+#: includes/admin/metaboxes.php:457 includes/replies/template.php:61
+msgid "Topic:"
+msgstr "話題 :"
+
+#: includes/admin/metaboxes.php:463
+msgid "Reply To:"
+msgstr "回覆到 :"
+
+#: includes/admin/metaboxes.php:464
+msgid "Reply To"
+msgstr "回覆"
+
+#: includes/admin/metaboxes.php:496
+#: templates/default/bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr "名稱 :"
+
+#: includes/admin/metaboxes.php:497
+#: templates/default/bbpress/form-user-edit.php:14
+#: templates/default/bbpress/form-user-edit.php:19
+msgid "Name"
+msgstr "名稱"
+
+#: includes/admin/metaboxes.php:502
+msgid "Email:"
+msgstr "Email:"
+
+#: includes/admin/metaboxes.php:503
+#: templates/default/bbpress/form-user-edit.php:103
+#: templates/default/bbpress/form-user-register.php:28
+msgid "Email"
+msgstr "Email"
+
+#: includes/admin/metaboxes.php:508
+#: templates/default/bbpress/form-anonymous.php:32
+msgid "Website:"
+msgstr "網站 :"
+
+#: includes/admin/metaboxes.php:509
+#: templates/default/bbpress/form-user-edit.php:57
+msgid "Website"
+msgstr "網站"
+
+#: includes/admin/metaboxes.php:516
+msgid "ID:"
+msgstr "ID:"
+
+#: includes/admin/metaboxes.php:517
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/metaboxes.php:524
+msgid "IP:"
+msgstr "IP:"
+
+#: includes/admin/metaboxes.php:525
+msgid "IP Address"
+msgstr "IP 位置"
+
+#: includes/admin/replies.php:134
+msgid ""
+"This screen provides access to all of your replies. You can customize the "
+"display of this screen to suit your workflow."
+msgstr "這個畫面顯示顯示您的所有回覆。您自定義此屏以適合您的工作流程"
+
+#: includes/admin/replies.php:144
+msgid ""
+"You can hide/display columns based on your needs and decide how many replies "
+"to list per screen using the Screen Options tab."
+msgstr ""
+"您可以根據需要在顯示選項標籤中隱藏/顯示某些欄位，或者決定每頁顯示多少個討論區"
+
+#: includes/admin/replies.php:145
+msgid ""
+"You can filter the list of replies by reply status using the text links in "
+"the upper left to show All, Published, Draft, or Trashed replies. The "
+"default view is to show all replies."
+msgstr ""
+"您可以在上方左側的地方，根據話題的狀態對回覆進行篩選。包括 : 全部回覆、已發"
+"佈、待審核、草稿或回收桶回覆等。預設將顯示全部回覆"
+
+#: includes/admin/replies.php:146
+msgid ""
+"You can view replies in a simple title list or with an excerpt. Choose the "
+"view you prefer by clicking on the icons at the top of the list on the right."
+msgstr ""
+"您可以僅列出回覆的標題列表，或者其中包含摘要內容。根據您的需要，在上方右側的"
+"幾個圖標中進行選擇"
+
+#: includes/admin/replies.php:147
+msgid ""
+"You can refine the list to show only replies in a specific category or from "
+"a specific month by using the dropdown menus above the replies list. Click "
+"the Filter button after making your selection. You also can refine the list "
+"by clicking on the reply author, category or tag in the replies list."
+msgstr ""
+"你可以透過選擇明確的分類或月分顯示相關的回覆。點選篩選按鈕確定你的選擇。你也"
+"可以點選回覆列表的作者，分類或標籤明確顯示列表"
+
+#: includes/admin/replies.php:156
+msgid ""
+"Hovering over a row in the replies list will display action links that allow "
+"you to manage your reply. You can perform the following actions:"
+msgstr ""
+"懸停在回覆列表的某行時，將會顯示出一些回覆管理鏈結。您可以執行以下操作 :"
+
+#: includes/admin/replies.php:158
+msgid ""
+"<strong>Edit</strong> takes you to the editing screen for that reply. You "
+"can also reach that screen by clicking on the reply title."
+msgstr "<strong>編輯</strong>前往回覆編輯頁面。你可以透過點選回覆上的標題"
+
+#: includes/admin/replies.php:160
+msgid ""
+"<strong>Trash</strong> removes your reply from this list and places it in "
+"the trash, from which you can permanently delete it."
+msgstr "<strong>回收桶</strong>從列表移除您想永久刪除的回覆到回收桶"
+
+#: includes/admin/replies.php:161
+msgid ""
+"<strong>Spam</strong> removes your reply from this list and places it in the "
+"spam queue, from which you can permanently delete it."
+msgstr "<strong>垃圾</strong>從列表中移除您想永久刪除的回覆到回收桶"
+
+#: includes/admin/replies.php:162
+msgid ""
+"<strong>Preview</strong> will show you what your draft reply will look like "
+"if you publish it. View will take you to your live site to view the reply. "
+"Which link is available depends on your reply&#8217;s status."
+msgstr ""
+"<strong>預覽</strong>展示您回覆文章發表後的樣子。視圖展示回覆執行的實況。鏈結"
+"取決於您的回覆的狀態"
+
+#: includes/admin/replies.php:171
+msgid ""
+"You can also edit or move multiple replies to the trash at once. Select the "
+"replies you want to act on using the checkboxes, then select the action you "
+"want to take from the Bulk Actions menu and click Apply."
+msgstr ""
+"您可以一次編輯或移除多篇回覆到回收桶。透過複選框選擇你需要處理的回覆，然後透"
+"過行動選單選擇你需要的操作，並點選應用"
+
+#: includes/admin/replies.php:172
+msgid ""
+"When using Bulk Edit, you can change the metadata (categories, author, etc.) "
+"for all selected replies at once. To remove a reply from the grouping, just "
+"click the x next to its name in the Bulk Edit area that appears."
+msgstr ""
+"當使用批量編輯功能，您可以更改字元數據 (分類, 作者, 等.) 對於一次所有選定回"
+"覆。要刪除群組回覆，只要點選出現在批量編輯區域名稱旁邊 X"
+
+#: includes/admin/replies.php:193
+msgid ""
+"The title field and the big reply editing Area are fixed in place, but you "
+"can reposition all the other boxes using drag and drop, and can minimize or "
+"expand them by clicking the title bar of each box. Use the Screen Options "
+"tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, "
+"Discussion, Slug, Author) or to choose a 1- or 2-column layout for this "
+"screen."
+msgstr ""
+"標題欄位和大型回覆編輯區是固定的，但你可以拖放其框架，並可以透過標題區域對其"
+"進行放大和縮小。使用畫面選項卡，取消隱藏框架（摘要，發送引用，自定義字段，討"
+"論，代稱，作者），或為畫面選擇 1 或 2 欄位佈局"
+
+#: includes/admin/replies.php:203
+msgid "Title and Reply Editor"
+msgstr "標題和回覆編輯"
+
+#: includes/admin/replies.php:205
+msgid ""
+"<strong>Title</strong> - Enter a title for your reply. After you enter a "
+"title, you&#8217;ll see the permalink below, which you can edit."
+msgstr ""
+"<strong>標題</strong> - 輸入您的回覆標題。 當你輸入標題後，會在下面看到您的編"
+"輯固定鏈結"
+
+#: includes/admin/replies.php:206
+msgid ""
+"<strong>Reply Editor</strong> - Enter the text for your reply. There are two "
+"modes of editing: Visual and HTML. Choose the mode by clicking on the "
+"appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon "
+"in the row to get a second row of controls. The HTML mode allows you to "
+"enter raw HTML along with your reply text. You can insert media files by "
+"clicking the icons above the reply editor and following the directions. You "
+"can go to the distraction-free writing screen via the Fullscreen icon in "
+"Visual mode (second to last in the top row) or the Fullscreen button in HTML "
+"mode (last in the row). Once there, you can make buttons visible by hovering "
+"over the top area. Exit Fullscreen back to the regular reply editor."
+msgstr ""
+"<strong>回覆編輯</strong> - 輸入回覆文字。有兩種編輯模式：可視化與 HTML，透過"
+"點選標籤選擇模式，可視化模式帶來所見即所得的方案。 HTML 模式，允許您輸入 "
+"HTML 代碼到回覆文字裡。您可以透過點選上面回覆編輯器的圖標插入媒體文件。您可以"
+"使用全螢幕的圖標進入自由編寫畫面。全螢幕時，在上方可見區域有選單按鈕，退出全"
+"螢幕回到正常的回覆編輯器"
+
+#: includes/admin/replies.php:209
+msgid ""
+"<strong>Publish</strong> - You can set the terms of publishing your reply in "
+"the Publish box. For Status, Visibility, and Publish (immediately), click on "
+"the Edit link to reveal more options. Visibility includes options for "
+"password-protecting a reply or making it stay at the top of your blog "
+"indefinitely (sticky). Publish (immediately) allows you to set a future or "
+"past date and time, so you can schedule a reply to be published in the "
+"future or backdate a reply."
+msgstr ""
+"<strong>發表</strong> - 您可以在發佈框設置你的回覆發佈條件。對於狀態，是否可"
+"見，發佈（立即），點選編輯鏈結顯示更多選擇。是否可見，是否對回覆設置密碼或文"
+"章長期出現在您的部落格頂部（置頂）。 發佈 (立即)，允許你設置將來或過去的時間"
+"日期，您可以安排回覆被發表的日期"
+
+#: includes/admin/replies.php:212
+msgid ""
+"<strong>Featured Image</strong> - This allows you to associate an image with "
+"your reply without inserting it. This is usually useful only if your theme "
+"makes use of the featured image as a reply thumbnail on the home page, a "
+"custom header, etc."
+msgstr ""
+"<strong>特色圖片</strong> - 允許給你的回覆一張關聯圖片。當你的主題支援特色圖"
+"片，將會在首頁顯示主題的縮圖，如自定義標題"
+
+#: includes/admin/replies.php:217 includes/admin/replies.php:255
+msgid "Reply Attributes"
+msgstr "回覆屬性"
+
+#: includes/admin/replies.php:219
+msgid "Select the attributes that your reply should have:"
+msgstr "選擇您的回覆需要擁有的屬性 :"
+
+#: includes/admin/replies.php:221
+msgid ""
+"<strong>Forum</strong> dropdown determines the parent forum that the reply "
+"belongs to. Select the forum, or leave the default (Use Forum of Topic) to "
+"post the reply in forum of the topic."
+msgstr ""
+"<strong>討論區</strong>下拉選單為上層討論區的回覆。選擇論壇或保留預設值（使用"
+"討論區的話題）張貼在話題討論區上的回覆"
+
+#: includes/admin/replies.php:222
+msgid ""
+"<strong>Topic</strong> determines the parent topic that the reply belongs to."
+msgstr "<strong>話題</strong>確定回覆屬於上層話題"
+
+#: includes/admin/replies.php:223
+msgid "<strong>Reply To</strong> determines the threading of the reply."
+msgstr "<strong>回覆</strong>確定回覆的執行流程"
+
+#: includes/admin/replies.php:347 includes/admin/topics.php:363
+#: templates/default/bbpress/form-anonymous.php:17
+msgid "Author Information"
+msgstr "作者資訊"
+
+#: includes/admin/replies.php:461
+msgid "The reply was not found!"
+msgstr "沒有找到相關回覆！"
+
+#: includes/admin/replies.php:464 includes/admin/topics.php:488
+msgid "You do not have the permission to do that!"
+msgstr "你沒有執行的權限！"
+
+#: includes/admin/replies.php:532
+msgid "There was a problem marking the reply \"%1$s\" as spam."
+msgstr "標記回覆 \"%1$s\" 為垃圾文章時出現問題"
+
+#: includes/admin/replies.php:532
+msgid "Reply \"%1$s\" successfully marked as spam."
+msgstr "回覆 \"%1$s\" 已完成取消垃圾標記"
+
+#: includes/admin/replies.php:536
+msgid "There was a problem unmarking the reply \"%1$s\" as spam."
+msgstr "取消標記回覆 \"%1$s\" 為垃圾文章時出現問題"
+
+#: includes/admin/replies.php:536
+msgid "Reply \"%1$s\" successfully unmarked as spam."
+msgstr "回覆 \"%1$s\" 成功設定為非垃圾文章"
+
+#: includes/admin/replies.php:569
+msgid "Title"
+msgstr "標題"
+
+#: includes/admin/replies.php:572 includes/admin/topics.php:636
+#: templates/default/bbpress/loop-replies.php:18
+#: templates/default/bbpress/loop-replies.php:60
+#: templates/default/bbpress/loop-search.php:18
+#: templates/default/bbpress/loop-search.php:40
+msgid "Author"
+msgstr "作者"
+
+#: includes/admin/replies.php:626 includes/admin/replies.php:634
+msgid "No Topic"
+msgstr "沒有話題"
+
+#: includes/admin/replies.php:652 includes/admin/replies.php:667
+#: includes/admin/topics.php:688
+msgid "No Forum"
+msgstr "沒有討論區"
+
+#: includes/admin/replies.php:658
+msgid "(Mismatch)"
+msgstr "(不符合)"
+
+#: includes/admin/replies.php:726 includes/admin/topics.php:777
+msgid "View &#8220;%s&#8221;"
+msgstr "觀看 &#8220;%s&#8221;"
+
+#: includes/admin/replies.php:726 includes/admin/topics.php:777
+msgid "View"
+msgstr "觀看"
+
+#: includes/admin/replies.php:737
+msgid "Mark the reply as not spam"
+msgstr "標記這篇回覆為非垃圾"
+
+#: includes/admin/replies.php:737 includes/admin/topics.php:808
+msgid "Not spam"
+msgstr "不是垃圾"
+
+#: includes/admin/replies.php:739
+msgid "Mark this reply as spam"
+msgstr "標記這篇回覆為垃圾"
+
+#: includes/admin/replies.php:739 includes/admin/topics.php:810
+#: includes/replies/template.php:2103 includes/topics/template.php:2874
+msgid "Spam"
+msgstr "垃圾"
+
+#: includes/admin/replies.php:748 includes/admin/topics.php:818
+#: includes/replies/template.php:2045 includes/topics/template.php:2630
+msgid "Restore this item from the Trash"
+msgstr "從回收桶還原此項目"
+
+#: includes/admin/replies.php:748 includes/admin/topics.php:818
+#: includes/replies/template.php:2033 includes/topics/template.php:2618
+msgid "Restore"
+msgstr "還原"
+
+#: includes/admin/replies.php:750 includes/admin/topics.php:820
+#: includes/replies/template.php:2047 includes/topics/template.php:2632
+msgid "Move this item to the Trash"
+msgstr "將此項目移至回收桶"
+
+#: includes/admin/replies.php:750 includes/admin/topics.php:820
+#: includes/replies/template.php:2032 includes/topics/template.php:2617
+msgid "Trash"
+msgstr "回收桶"
+
+#: includes/admin/replies.php:754 includes/admin/topics.php:824
+#: includes/replies/template.php:2051 includes/topics/template.php:2636
+msgid "Delete this item permanently"
+msgstr "永久刪除此項目"
+
+#: includes/admin/replies.php:754 includes/admin/topics.php:824
+msgid "Delete Permanently"
+msgstr "永久刪除"
+
+#: includes/admin/replies.php:780 includes/admin/topics.php:850
+msgid "Empty Spam"
+msgstr "清空垃圾"
+
+#: includes/admin/replies.php:790 includes/admin/topics.php:860
+msgid "In all forums"
+msgstr "所有討論區"
+
+#: includes/admin/replies.php:850
+msgid "Reply updated. <a href=\"%s\">View topic</a>"
+msgstr "回覆已更新 <a href=\"%s\">查看話題</a>"
+
+#: includes/admin/replies.php:859
+msgid "Reply updated."
+msgstr "回覆已更新"
+
+#. translators: %s: date and time of the revision
+#: includes/admin/replies.php:864
+msgid "Reply restored to revision from %s"
+msgstr "回覆已從修改版本 %s 還原"
+
+#: includes/admin/replies.php:868
+msgid "Reply created. <a href=\"%s\">View topic</a>"
+msgstr "回覆已建立 <a href=\"%s\">查看話題</a>"
+
+#: includes/admin/replies.php:871
+msgid "Reply saved."
+msgstr "回覆已儲存"
+
+#: includes/admin/replies.php:874
+msgid "Reply submitted. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr "回覆已發表 <a target=\"_blank\" href=\"%s\">預覽話題</a>"
+
+#: includes/admin/replies.php:877
+msgid ""
+"Reply scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview topic</a>"
+msgstr ""
+"回覆欲發佈於 : <strong>%1$s</strong>。<a target=\"_blank\" href=\"%2$s\">預覽"
+"話題</a>"
+
+#: includes/admin/replies.php:884
+msgid "Reply draft updated. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr "回覆草稿已更新 <a target=\"_blank\" href=\"%s\">預覽話題</a>"
+
+#: includes/admin/settings.php:24
+msgid "Forum User Settings"
+msgstr "討論區用戶設定"
+
+#: includes/admin/settings.php:29
+msgid "Forum Features"
+msgstr "討論區功能"
+
+#: includes/admin/settings.php:34
+msgid "Forum Theme Packages"
+msgstr "討論區話題包"
+
+#: includes/admin/settings.php:39
+msgid "Topics and Replies Per Page"
+msgstr "每頁話題與回覆數"
+
+#: includes/admin/settings.php:44
+msgid "Topics and Replies Per RSS Page"
+msgstr "RSS 每頁話題與回覆數"
+
+#: includes/admin/settings.php:49
+msgid "Forum Root Slug"
+msgstr "討論區根目錄代稱"
+
+#: includes/admin/settings.php:54
+msgid "Single Forum Slugs"
+msgstr "單一討論區代稱"
+
+#: includes/admin/settings.php:59
+msgid "Forum User Slugs"
+msgstr "討論區用戶代稱"
+
+#: includes/admin/settings.php:64
+msgid "BuddyPress Integration"
+msgstr "BuddyPress 整合"
+
+#: includes/admin/settings.php:69
+msgid "Akismet Integration"
+msgstr "Akismet 整合"
+
+#: includes/admin/settings.php:91
+msgid "Disallow editing after"
+msgstr "之後不允許編輯"
+
+#: includes/admin/settings.php:99
+msgid "Throttle posting every"
+msgstr "壓縮每篇文章"
+
+#: includes/admin/settings.php:107
+msgid "Anonymous posting"
+msgstr "匿名發文"
+
+#: includes/admin/settings.php:115
+msgid "Auto role"
+msgstr "自動角色"
+
+#: includes/admin/settings.php:134 includes/admin/settings.php:1688
+msgid "Revisions"
+msgstr "修改"
+
+#: includes/admin/settings.php:142 includes/extend/buddypress/loader.php:218
+#: templates/default/bbpress/user-details.php:48
+msgid "Favorites"
+msgstr "收藏"
+
+#: includes/admin/settings.php:150 includes/extend/buddypress/loader.php:230
+#: templates/default/bbpress/user-details.php:58
+msgid "Subscriptions"
+msgstr "訂閱"
+
+#: includes/admin/settings.php:158
+msgid "Topic tags"
+msgstr "話題標籤"
+
+#: includes/admin/settings.php:166 includes/admin/settings.php:333
+#: includes/common/template.php:2314 includes/search/template.php:225
+#: templates/default/bbpress/form-search.php:17
+msgid "Search"
+msgstr "搜尋"
+
+#: includes/admin/settings.php:174
+msgid "Post Formatting"
+msgstr "文章格式"
+
+#: includes/admin/settings.php:182
+msgid "Auto-embed links"
+msgstr "自動嵌入鏈結"
+
+#: includes/admin/settings.php:190
+msgid "Reply Threading"
+msgstr "回覆執行緒"
+
+#: includes/admin/settings.php:209
+msgid "Current Package"
+msgstr "目前套件"
+
+#: includes/admin/settings.php:264
+msgid "Forum Root"
+msgstr "討論區根目錄"
+
+#: includes/admin/settings.php:272
+msgid "Forum Prefix"
+msgstr "討論區前綴"
+
+#: includes/admin/settings.php:280
+msgid "Forum root should show"
+msgstr "討論區根目錄會顯示"
+
+#: includes/admin/settings.php:317
+msgid "Topic View"
+msgstr "觀看話題"
+
+#: includes/admin/settings.php:346
+msgid "User Base"
+msgstr "基本用戶"
+
+#: includes/admin/settings.php:354 includes/extend/buddypress/loader.php:196
+#: includes/extend/buddypress/loader.php:269
+#: templates/default/bbpress/user-details.php:35
+msgid "Topics Started"
+msgstr "發文數"
+
+#: includes/admin/settings.php:362 includes/extend/buddypress/loader.php:207
+#: includes/extend/buddypress/loader.php:277
+#: templates/default/bbpress/user-details.php:41
+msgid "Replies Created"
+msgstr "回覆數"
+
+#: includes/admin/settings.php:370 includes/extend/buddypress/loader.php:285
+msgid "Favorite Topics"
+msgstr "收藏話題"
+
+#: includes/admin/settings.php:378
+msgid "Topic Subscriptions"
+msgstr "訂閱話題"
+
+#: includes/admin/settings.php:391
+msgid "Enable Group Forums"
+msgstr "啟用群組論壇"
+
+#: includes/admin/settings.php:399
+msgid "Group Forums Parent"
+msgstr "上層群組論壇"
+
+#: includes/admin/settings.php:412
+msgid "Use Akismet"
+msgstr "使用 Akismet"
+
+#: includes/admin/settings.php:450
+msgid "Setting time limits and other user posting capabilities"
+msgstr "設定時間限制及其他用戶發文的能力"
+
+#: includes/admin/settings.php:467 includes/common/functions.php:123
+msgid "minutes"
+msgstr "分"
+
+#: includes/admin/settings.php:483 includes/common/functions.php:124
+msgid "seconds"
+msgstr "秒"
+
+#: includes/admin/settings.php:499
+msgid "Allow guest users without accounts to create topics and replies"
+msgstr "允許訪客用戶無需帳號發表話題及回覆"
+
+#: includes/admin/settings.php:533
+msgid "Automatically give registered visitors the %s forum role"
+msgstr "自動為訪客註冊 %s 討論區角色"
+
+#: includes/admin/settings.php:549
+msgid "Forum features that can be toggled on and off"
+msgstr "可以開啟和關閉討論區功能"
+
+#: includes/admin/settings.php:565
+msgid "Allow users to mark topics as favorites"
+msgstr "允許用戶可標記收藏話題"
+
+#: includes/admin/settings.php:581
+msgid "Allow users to subscribe to forums and topics"
+msgstr "允許用戶訂閱討論區和話題"
+
+#: includes/admin/settings.php:597
+msgid "Allow topics to have tags"
+msgstr "允許話題使用標籤"
+
+#: includes/admin/settings.php:613
+msgid "Allow forum wide search"
+msgstr "允許使用討論區搜尋"
+
+#: includes/admin/settings.php:650
+msgid "Enable threaded (nested) replies %s levels deep"
+msgstr "啟用螺紋 (巢狀) 回覆 %s 層級深"
+
+#: includes/admin/settings.php:667
+msgid "Allow topic and reply revision logging"
+msgstr "允許修改話題和回覆記錄"
+
+#: includes/admin/settings.php:683
+msgid "Add toolbar & buttons to textareas to help with HTML formatting"
+msgstr "添加工具欄 & 按鈕，文字區域來協助 HTML 格式"
+
+#: includes/admin/settings.php:696
+msgid "How your forum content is displayed within your existing theme."
+msgstr "要如何在現有話題中顯示你的討論區內容"
+
+#: includes/admin/settings.php:720
+msgid "%1$s - %2$s"
+msgstr "%1$s - %2$s"
+
+#: includes/admin/settings.php:726
+msgid "will serve all bbPress templates"
+msgstr "將符合所有的 bbPress 模板"
+
+#: includes/admin/settings.php:730
+msgid "No template packages available."
+msgstr "無可用的模板套件"
+
+#: includes/admin/settings.php:746
+msgid ""
+"Embed media (YouTube, Twitter, Flickr, etc...) directly into topics and "
+"replies"
+msgstr "嵌入媒體 (YouTube, Twitter, Flickr, 等...) 直接插入話題和回覆"
+
+#: includes/admin/settings.php:761
+msgid "How many topics and replies to show per page"
+msgstr "每頁顯示多少話題和回覆"
+
+#: includes/admin/settings.php:777 includes/admin/settings.php:793
+#: includes/admin/settings.php:824 includes/admin/settings.php:840
+msgid "per page"
+msgstr "每頁"
+
+#: includes/admin/settings.php:808
+msgid "How many topics and replies to show per RSS page"
+msgstr "每個 RSS 頁面顯示多少話題和回覆"
+
+#: includes/admin/settings.php:858
+msgid ""
+"Customize your Forums root. Partner with a WordPress Page and use Shortcodes "
+"for more flexibility."
+msgstr "自定義您的論壇根目錄。使用 WordPress 頁面及簡碼組合讓它有更多的靈活性"
+
+#: includes/admin/settings.php:891
+msgid "Prefix all forum content with the Forum Root slug (Recommended)"
+msgstr "所有討論區內容與討論區根目錄代稱的前綴 (建議)"
+
+#: includes/admin/settings.php:911
+msgid "Forum Index"
+msgstr "討論區首頁"
+
+#: includes/admin/settings.php:914
+msgid "Topics by Freshness"
+msgstr "話題按最新"
+
+#: includes/admin/settings.php:941
+msgid "Customize your user profile slugs."
+msgstr "自定義您用戶個人檔案的代稱"
+
+#: includes/admin/settings.php:1041
+msgid ""
+"Custom slugs for single forums, topics, replies, tags, views, and search."
+msgstr "為單獨討論區，話題，回覆，標籤，檢視以及搜尋自定義代稱"
+
+#: includes/admin/settings.php:1159
+msgid "Forum settings for BuddyPress"
+msgstr "BuddyPress 的論壇設定"
+
+#: includes/admin/settings.php:1175
+msgid "Allow BuddyPress Groups to have their own forums"
+msgstr "允許 BuddyPress 的群組有自己的討論區"
+
+#: includes/admin/settings.php:1192
+msgid "&mdash; Forum root &mdash;"
+msgstr "&mdash; 討論區根目錄 &mdash;"
+
+#: includes/admin/settings.php:1200
+msgid "is the parent for all group forums"
+msgstr "為所有討論群組的上層"
+
+#: includes/admin/settings.php:1201
+msgid ""
+"Using the Forum Root is not recommended. Changing this does not move "
+"existing forums."
+msgstr "不建議使用論壇根目錄。這些改變不會移動已存在的討論區"
+
+#: includes/admin/settings.php:1216
+msgid "Forum settings for Akismet"
+msgstr "討論區的 Akismet 設定"
+
+#: includes/admin/settings.php:1233
+msgid "Allow Akismet to actively prevent forum spam."
+msgstr "允許 Akismet 防止討論區垃圾郵件"
+
+#: includes/admin/settings.php:1256
+msgid "Forums Settings"
+msgstr "論壇設定"
+
+#: includes/admin/settings.php:1265
+#: templates/default/bbpress/form-user-edit.php:173
+msgid "Save Changes"
+msgstr "儲存變更"
+
+#: includes/admin/settings.php:1284
+msgid ""
+"Information about your previous forums database so that they can be "
+"converted. <strong>Backup your database before proceeding.</strong>"
+msgstr ""
+"關於您以前論壇的資料庫資訊，以便它們可以轉換。<strong>執行前請備份您的資料庫"
+"</strong>"
+
+#: includes/admin/settings.php:1314
+msgid "is the previous forum software"
+msgstr "是以前的論壇軟體包"
+
+#: includes/admin/settings.php:1328
+msgid "IP or hostname"
+msgstr "IP 或 hostname"
+
+#: includes/admin/settings.php:1342
+msgid "Use default 3306 if unsure"
+msgstr "如果不確定，使用預設的 3306"
+
+#: includes/admin/settings.php:1356
+msgid "User for your database connection"
+msgstr "您的資料庫連接用戶名"
+
+#: includes/admin/settings.php:1370
+msgid "Password to access the database"
+msgstr "存取資料庫密碼"
+
+#: includes/admin/settings.php:1384
+msgid "Name of the database with your old forum data"
+msgstr "使用您舊的討論區資料庫名稱"
+
+#: includes/admin/settings.php:1397
+msgid "Some optional parameters to help tune the conversion process."
+msgstr "一些可選參數，以協助調整轉換過程"
+
+#: includes/admin/settings.php:1411
+msgid ""
+"(If converting from BuddyPress Forums, use \"wp_bb_\" or your custom prefix)"
+msgstr "(如果要從 BuddyPress 的論壇轉換，使用 \"wp_bb_\" 或您自定義的前綴)"
+
+#: includes/admin/settings.php:1425
+msgid "rows to process at a time"
+msgstr "資料列處理的時間"
+
+#: includes/admin/settings.php:1426
+msgid "Keep this low if you experience out-of-memory issues."
+msgstr "如果你遇到記憶體限制的問題，請使用低一點的值"
+
+#: includes/admin/settings.php:1440
+msgid "second(s) delay between each group of rows"
+msgstr "每組之間延遲秒數"
+
+#: includes/admin/settings.php:1441
+msgid "Keep this high to prevent too-many-connection issues."
+msgstr "保持高值防止過多連接問題"
+
+#: includes/admin/settings.php:1455
+msgid "Start a fresh conversion from the beginning"
+msgstr "開始一個全新的轉換"
+
+#: includes/admin/settings.php:1456
+msgid "You should clean old conversion information before starting over."
+msgstr "當轉換完成，清除舊的轉換資訊"
+
+#: includes/admin/settings.php:1470
+msgid "Purge all information from a previously attempted import"
+msgstr "清除以往所有匯入的資訊"
+
+#: includes/admin/settings.php:1471
+msgid ""
+"Use this if an import failed and you want to remove that incomplete data."
+msgstr "當匯入失敗時，您想清除不完整的資料，可使用此工具"
+
+#: includes/admin/settings.php:1485
+msgid "Attempt to import user accounts from previous forums"
+msgstr "嘗試從以往的論壇匯入用戶帳號"
+
+#: includes/admin/settings.php:1486
+msgid ""
+"Non-bbPress passwords cannot be automatically converted. They will be "
+"converted as each user logs in."
+msgstr "非 bbpress 密碼無法自動轉換。當用戶登入時他們才會被轉換"
+
+#: includes/admin/settings.php:1516
+msgid "Start"
+msgstr "開始"
+
+#: includes/admin/settings.php:1517
+msgid "Stop"
+msgstr "停止"
+
+#: includes/admin/settings.php:1548
+msgid "This screen provides access to all of the Forums settings."
+msgstr "這個頁面提供了一些 bbPress 論壇的基本設置"
+
+#: includes/admin/settings.php:1549
+msgid ""
+"Please see the additional help tabs for more information on each indiviual "
+"section."
+msgstr "請參閱各個部分選項卡上更多的協助資訊"
+
+#: includes/admin/settings.php:1555
+msgid "Main Settings"
+msgstr "主要設定"
+
+#: includes/admin/settings.php:1556
+msgid "In the Main Settings you have a number of options:"
+msgstr "在主設定中，您有一些可供設置的選項 :"
+
+#: includes/admin/settings.php:1559
+msgid ""
+"You can choose to lock a post after a certain number of minutes. \"Locking "
+"post editing\" will prevent the author from editing some amount of time "
+"after saving a post."
+msgstr ""
+"您可以選擇帖子允許編輯的時間限制。\"鎖定文章編輯\"將防止作者在時限過後對文章"
+"進行編輯"
+
+#: includes/admin/settings.php:1560
+msgid ""
+"\"Throttle time\" is the amount of time required between posts from a single "
+"author. The higher the throttle time, the longer a user will need to wait "
+"between posting to the forum."
+msgstr ""
+"\"時間間隔\"將限制某個作者連續發布文章的時間限制。間隔時間越長，作者在討論區"
+"連續發表文章的間隔時間越長"
+
+#: includes/admin/settings.php:1561
+msgid ""
+"Favorites are a way for users to save and later return to topics they favor. "
+"This is enabled by default."
+msgstr "收藏可以保存相關話題。預設為啟動"
+
+#: includes/admin/settings.php:1562
+msgid ""
+"Subscriptions allow users to subscribe for notifications to topics that "
+"interest them. This is enabled by default."
+msgstr "可讓用戶訂閱他們感興趣的話題。預設為啟用"
+
+#: includes/admin/settings.php:1563
+msgid ""
+"Topic-Tags allow users to filter topics between forums. This is enabled by "
+"default."
+msgstr "主題標籤可讓用戶在討論區間篩選話題。預設為啟用"
+
+#: includes/admin/settings.php:1564
+msgid ""
+"\"Anonymous Posting\" allows guest users who do not have accounts on your "
+"site to both create topics as well as replies."
+msgstr "\"匿名發表\" 允許訪客建立話題與回覆"
+
+#: includes/admin/settings.php:1565
+msgid ""
+"The Fancy Editor brings the luxury of the Visual editor and HTML editor from "
+"the traditional WordPress dashboard into your theme."
+msgstr "帶來可視化編輯器和 HTML 編輯器，從傳統的 WordPress 後台，到你的話題"
+
+#: includes/admin/settings.php:1566
+msgid ""
+"Auto-embed will embed the media content from a URL directly into the "
+"replies. For example: links to Flickr and YouTube."
+msgstr "自動嵌入會透過位址嵌入媒體內容到回覆裡。例如 : YouTube 的影片鏈結"
+
+#: includes/admin/settings.php:1569
+msgid ""
+"You must click the Save Changes button at the bottom of the screen for new "
+"settings to take effect."
+msgstr "您必須點選頁面下方的儲存修改按鈕才可以使新設定生效"
+
+#: includes/admin/settings.php:1575
+msgid "Per Page"
+msgstr "每頁"
+
+#: includes/admin/settings.php:1576
+msgid ""
+"Per Page settings allow you to control the number of topics and replies "
+"appear on each page."
+msgstr "頁面設定允許設置每一頁顯示話題和回覆的數量"
+
+#: includes/admin/settings.php:1577
+msgid ""
+"This is comparable to the WordPress \"Reading Settings\" page, where you can "
+"set the number of posts that should show on blog pages and in feeds."
+msgstr ""
+"這好比 WordPress\"閱讀設定\"頁面，在這裡你可以設定文章在部落格頁面或 feeds 裡"
+"的顯示數量"
+
+#: includes/admin/settings.php:1578
+msgid ""
+"These are broken up into two separate groups: one for what appears in your "
+"theme, another for RSS feeds."
+msgstr "這些會被分成兩個不同的群組 : 一個出現在你的主題上，另一個在RSS 訂閱"
+
+#: includes/admin/settings.php:1584
+msgid "Slugs"
+msgstr "代稱"
+
+#: includes/admin/settings.php:1585
+msgid ""
+"The Slugs section allows you to control the permalink structure for your "
+"forums."
+msgstr "代稱可讓你控制討論區的固定鏈結"
+
+#: includes/admin/settings.php:1586
+msgid ""
+"\"Archive Slugs\" are used as the \"root\" for your forums and topics. If "
+"you combine these values with existing page slugs, bbPress will attempt to "
+"output the most correct title and content."
+msgstr ""
+"\"彙整代稱\" 如 \"根\" 一樣在你的討論區和話題上使用。如果你關聯該值到當前頁面"
+"代稱，bbPress 將會嘗試輸出最正確的標題和內容"
+
+#: includes/admin/settings.php:1587
+msgid ""
+"\"Single Slugs\" are used as a prefix when viewing an individual forum, "
+"topic, reply, user, or view."
+msgstr "\"單獨代稱\"當你查看討論區，話題，回覆，用戶，或檢視時用作前綴"
+
+#: includes/admin/settings.php:1588
+msgid ""
+"In the event of a slug collision with WordPress or BuddyPress, a warning "
+"will appear next to the problem slug(s)."
+msgstr ""
+"萬一代稱在 WordPress 與 BuddyPress 之間出現衝突，問題代稱的旁邊會出現警告"
+
+#: includes/admin/settings.php:1686
+#: templates/default/bbpress/loop-forums.php:21
+#: templates/default/bbpress/loop-replies.php:24
+#: templates/default/bbpress/loop-replies.php:66
+#: templates/default/bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr "文章"
+
+#: includes/admin/settings.php:1687
+msgid "Pages"
+msgstr "頁面"
+
+#: includes/admin/settings.php:1689
+msgid "Attachments"
+msgstr "附件"
+
+#: includes/admin/settings.php:1690
+msgid "Menus"
+msgstr "選單"
+
+#: includes/admin/settings.php:1693
+msgid "Tag base"
+msgstr "基本標籤"
+
+#: includes/admin/settings.php:1696
+msgid "Category base"
+msgstr "基本分類"
+
+#: includes/admin/settings.php:1701
+msgid "Forums base"
+msgstr "基本論壇"
+
+#: includes/admin/settings.php:1704
+msgid "Topics base"
+msgstr "基本話題"
+
+#: includes/admin/settings.php:1707
+msgid "Forum slug"
+msgstr "討論區代稱"
+
+#: includes/admin/settings.php:1710
+msgid "Topic slug"
+msgstr "話題代稱"
+
+#: includes/admin/settings.php:1713
+msgid "Reply slug"
+msgstr "回覆代稱"
+
+#: includes/admin/settings.php:1716
+msgid "User base"
+msgstr "基本用戶"
+
+#: includes/admin/settings.php:1719
+msgid "View base"
+msgstr "基本查看"
+
+#: includes/admin/settings.php:1722
+msgid "Topic tag slug"
+msgstr "話題標籤代稱"
+
+#: includes/admin/settings.php:1734
+msgid "%s page"
+msgstr "%s 頁面"
+
+#: includes/admin/settings.php:1753
+msgid "Possible %1$s conflict: %2$s"
+msgstr "可能 %1$s 衝突: %2$s"
+
+#: includes/admin/tools.php:36
+msgid ""
+"bbPress keeps track of relationships between forums, topics, replies, and "
+"topic tags, and users. Occasionally these relationships become out of sync, "
+"most often after an import or migration. Use the tools below to manually "
+"recalculate these relationships."
+msgstr ""
+"bbPress 會追踪相關論壇討論區、文章、回覆、話題標籤及用戶。有時這些關係會錯"
+"亂，比如在匯入或搬遷後。使用下列工具可手動重新統計這些關係"
+
+#: includes/admin/tools.php:37
+msgid ""
+"Some of these tools create substantial database overhead. Avoid running more "
+"than 1 repair job at a time."
+msgstr "其中有些工具會建立大量資料庫數據。避免每次運行超過 1 次修復工作"
+
+#: includes/admin/tools.php:43
+msgid "Relationships to Repair:"
+msgstr "相關修復 :"
+
+#: includes/admin/tools.php:46
+msgid "Repair"
+msgstr "修復"
+
+#: includes/admin/tools.php:61
+msgid "Repair Items"
+msgstr "修復項目"
+
+#: includes/admin/tools.php:161
+msgid "Recalculate the parent topic for each post"
+msgstr "重新計算上層話題的每篇文章"
+
+#: includes/admin/tools.php:162
+msgid "Recalculate the parent forum for each post"
+msgstr "重新計算上層討論區的每篇文章"
+
+#: includes/admin/tools.php:163
+msgid "Recalculate private and hidden forums"
+msgstr "重新計算私人及隱藏討論區"
+
+#: includes/admin/tools.php:164
+msgid "Recalculate last activity in each topic and forum"
+msgstr "重新計算每個話題和討論區最後活動"
+
+#: includes/admin/tools.php:165
+msgid "Recalculate the sticky relationship of each topic"
+msgstr "重新計算每個話題的置頂關係"
+
+#: includes/admin/tools.php:166
+msgid "Repair BuddyPress Group Forum relationships"
+msgstr "修復 BuddyPress 討論區群組的關係"
+
+#: includes/admin/tools.php:167
+msgid "Count topics in each forum"
+msgstr "計算每個討論區的話題"
+
+#: includes/admin/tools.php:168
+msgid "Count replies in each forum"
+msgstr "計算每個討論區的回覆"
+
+#: includes/admin/tools.php:169
+msgid "Count replies in each topic"
+msgstr "計算每個話題中的回覆"
+
+#: includes/admin/tools.php:170
+msgid "Count voices in each topic"
+msgstr "計算每個話題中的發文"
+
+#: includes/admin/tools.php:171
+msgid "Count spammed & trashed replies in each topic"
+msgstr "計算每個話題的垃圾郵件和移至回收桶的回覆"
+
+#: includes/admin/tools.php:172
+msgid "Count topics for each user"
+msgstr "計算每個用戶發表的話題"
+
+#: includes/admin/tools.php:173
+msgid "Count replies for each user"
+msgstr "計算每個用戶發表的回覆"
+
+#: includes/admin/tools.php:174
+msgid "Remove trashed topics from user favorites"
+msgstr "刪除用戶收藏列表中移到回收桶的話題"
+
+#: includes/admin/tools.php:175
+msgid "Remove trashed topics from user subscriptions"
+msgstr "刪除用戶訂閱列表中移到回收桶的話題"
+
+#: includes/admin/tools.php:176
+msgid "Remove trashed forums from user subscriptions"
+msgstr "從用戶訂閱中移除已移至回收桶中的話題"
+
+#: includes/admin/tools.php:177
+msgid "Remap existing users to default forum roles"
+msgstr "為現有的用戶重新分配討論區預設角色"
+
+#: includes/admin/tools.php:197
+msgid "Counting the number of replies in each topic&hellip; %s"
+msgstr "正在計算每個話題的回覆&hellip; %s"
+
+#: includes/admin/tools.php:198 includes/admin/tools.php:241
+#: includes/admin/tools.php:283 includes/admin/tools.php:328
+#: includes/admin/tools.php:445 includes/admin/tools.php:479
+#: includes/admin/tools.php:511 includes/admin/tools.php:556
+#: includes/admin/tools.php:601 includes/admin/tools.php:663
+#: includes/admin/tools.php:724 includes/admin/tools.php:792
+#: includes/admin/tools.php:840 includes/admin/tools.php:946
+#: includes/admin/tools.php:1006 includes/admin/tools.php:1027
+#: includes/admin/tools.php:1081
+msgid "Failed!"
+msgstr "失敗 !"
+
+#: includes/admin/tools.php:224 includes/admin/tools.php:267
+#: includes/admin/tools.php:293 includes/admin/tools.php:460
+#: includes/admin/tools.php:494 includes/admin/tools.php:539
+#: includes/admin/tools.php:584 includes/admin/tools.php:646
+#: includes/admin/tools.php:707 includes/admin/tools.php:768
+#: includes/admin/tools.php:930 includes/admin/tools.php:987
+#: includes/admin/tools.php:1010 includes/admin/tools.php:1065
+#: includes/admin/tools.php:1110
+msgid "Complete!"
+msgstr "完成！"
+
+#: includes/admin/tools.php:240
+msgid "Counting the number of voices in each topic&hellip; %s"
+msgstr "正在計算每個話題中的參與人數&hellip; %s"
+
+#: includes/admin/tools.php:282
+msgid ""
+"Counting the number of spammed and trashed replies in each topic&hellip; %s"
+msgstr "正在計算每個話題中的垃圾回覆及被移至回收桶的回覆&hellip; %s"
+
+#: includes/admin/tools.php:307
+msgid "Repairing BuddyPress group-forum relationships&hellip; %s"
+msgstr "修復 BuddyPress 群組討論區的關係 &hellip; %s"
+
+#: includes/admin/tools.php:408
+msgid "Group Forums"
+msgstr "群組論壇"
+
+#: includes/admin/tools.php:409
+msgid "group-forums"
+msgstr "討論群組"
+
+#: includes/admin/tools.php:425
+msgid ""
+"Complete! %s groups updated; %s forums updated; %s forum statuses synced."
+msgstr "完成 ! %s 群組已更新; %s 討論區已更新; %s 討論區狀態同步"
+
+#: includes/admin/tools.php:444
+msgid "Counting the number of topics in each forum&hellip; %s"
+msgstr "計算每個討論區的話題數量&hellip; %s"
+
+#: includes/admin/tools.php:478
+msgid "Counting the number of replies in each forum&hellip; %s"
+msgstr "計算每個討論區的回覆數量&hellip; %s"
+
+#: includes/admin/tools.php:510
+msgid "Counting the number of topics each user has created&hellip; %s"
+msgstr "正在計算每個用戶建立的話題&hellip; %s"
+
+#: includes/admin/tools.php:555
+msgid "Counting the number of topics to which each user has replied&hellip; %s"
+msgstr "正在計算每個用戶回覆的話題&hellip; %s"
+
+#: includes/admin/tools.php:600
+msgid "Removing trashed topics from user favorites&hellip; %s"
+msgstr "正在從用戶收藏夾中移除已移至回收桶中的話題&hellip; %s"
+
+#: includes/admin/tools.php:630 includes/admin/tools.php:691
+#: includes/admin/tools.php:752
+msgid "Nothing to remove!"
+msgstr "沒有東西可刪除 !"
+
+#: includes/admin/tools.php:662
+msgid "Removing trashed topics from user subscriptions&hellip; %s"
+msgstr "正在從用戶訂閱中移除已移至回收桶中的話題&hellip; %s"
+
+#: includes/admin/tools.php:723
+msgid "Removing trashed forums from user subscriptions&hellip; %s"
+msgstr "正在從用戶訂閱中移除已移至回收桶中的討論區&hellip; %s"
+
+#: includes/admin/tools.php:785
+msgid "Remapping forum role for each user on this site&hellip; %s"
+msgstr "為論壇的每一個用戶重新分配討論區角色&hellip; %s"
+
+#: includes/admin/tools.php:823
+msgid "Complete! %s users updated."
+msgstr "完成 ! %s 用戶已更新"
+
+#: includes/admin/tools.php:839
+msgid "Recomputing latest post in every topic and forum&hellip; %s"
+msgstr "正在重新計算每個話題和討論區中的最新文章&hellip; %s"
+
+#: includes/admin/tools.php:945
+msgid "Repairing the sticky topic to the parent forum relationships&hellip; %s"
+msgstr "修復話題與上層討論區的置頂關係&hellip; %s"
+
+#: includes/admin/tools.php:1002
+msgid "Recalculating forum visibility &hellip; %s"
+msgstr "重新計算討論區可見性 &hellip; %s"
+
+#: includes/admin/tools.php:1026
+msgid "Recalculating the forum for each post &hellip; %s"
+msgstr "重新計算每篇文章的討論區 &hellip; %s"
+
+#: includes/admin/tools.php:1080
+msgid "Recalculating the topic for each post &hellip; %s"
+msgstr "重新計算每篇文章的話題 &hellip; %s"
+
+#: includes/admin/tools.php:1133
+msgid ""
+"Revert your forums back to a brand new installation. This process cannot be "
+"undone."
+msgstr "還原您的論壇回到全新狀態。這個過程無法復原"
+
+#: includes/admin/tools.php:1134
+msgid "Backup your database before proceeding."
+msgstr "操作前請備份你的資料庫"
+
+#: includes/admin/tools.php:1140
+msgid "The following data will be removed:"
+msgstr "下面的資料將被刪除 :"
+
+#: includes/admin/tools.php:1142 includes/forums/template.php:50
+msgid "All Forums"
+msgstr "所有論壇"
+
+#: includes/admin/tools.php:1143 includes/topics/functions.php:3440
+#: includes/topics/template.php:50
+msgid "All Topics"
+msgstr "所有話題"
+
+#: includes/admin/tools.php:1144 includes/replies/functions.php:1994
+#: includes/replies/template.php:50
+msgid "All Replies"
+msgstr "所有回覆"
+
+#: includes/admin/tools.php:1145
+msgid "All Topic Tags"
+msgstr "所有話題標籤"
+
+#: includes/admin/tools.php:1146
+msgid "Related Meta Data"
+msgstr "相關字元數據"
+
+#: includes/admin/tools.php:1147
+msgid "Forum Settings"
+msgstr "討論區設定"
+
+#: includes/admin/tools.php:1148
+msgid "Forum Activity"
+msgstr "活動討論區"
+
+#: includes/admin/tools.php:1149
+msgid "Forum User Roles"
+msgstr "討論區用戶角色"
+
+#: includes/admin/tools.php:1150
+msgid "Importer Helper Data"
+msgstr "匯入輔助資料"
+
+#: includes/admin/tools.php:1154
+msgid "Delete imported users?"
+msgstr "刪除匯入的用戶?"
+
+#: includes/admin/tools.php:1157 includes/admin/tools.php:1167
+msgid "Say it ain't so!"
+msgstr ""
+
+#: includes/admin/tools.php:1158
+msgid ""
+"This option will delete all previously imported users, and cannot be undone."
+msgstr "此選項將刪除所有之前匯入的用戶，並且無法復原"
+
+#: includes/admin/tools.php:1159
+msgid ""
+"Note: Resetting without this checked will delete the meta-data necessary to "
+"delete these users."
+msgstr ""
+
+#: includes/admin/tools.php:1164
+msgid "Are you sure you want to do this?"
+msgstr "您確定要這麼做嗎?"
+
+#: includes/admin/tools.php:1168
+msgid "This process cannot be undone."
+msgstr "這個過程將無法復原"
+
+#: includes/admin/tools.php:1169
+msgid "Human sacrifice, dogs and cats living together... mass hysteria!"
+msgstr ""
+
+#: includes/admin/tools.php:1177
+msgid "Reset bbPress"
+msgstr "重置 bbPress"
+
+#: includes/admin/tools.php:1210
+msgid "Failed"
+msgstr "失敗"
+
+#: includes/admin/tools.php:1211
+msgid "Success!"
+msgstr "完成 !"
+
+#: includes/admin/tools.php:1218
+msgid "Deleting Posts&hellip; %s"
+msgstr "正在删除文章&hellip; %s"
+
+#: includes/admin/tools.php:1231
+msgid "Deleting Post Meta&hellip; %s"
+msgstr "正在删除文章標籤&hellip; %s"
+
+#: includes/admin/tools.php:1240
+msgid "Deleting Topic Tags&hellip; %s"
+msgstr "正在刪除話題標籤&hellip; %s"
+
+#: includes/admin/tools.php:1255
+msgid "Deleting User&hellip; %s"
+msgstr "正在刪除用戶&hellip; %s"
+
+#: includes/admin/tools.php:1260 includes/admin/tools.php:1268
+msgid "Deleting User Meta&hellip; %s"
+msgstr "正在刪除用戶標籤&hellip; %s"
+
+#: includes/admin/tools.php:1276
+msgid "Deleting Conversion Table&hellip; %s"
+msgstr "正在轉換表格&hellip; %s"
+
+#: includes/admin/tools.php:1288
+msgid "Deleting Settings&hellip; %s"
+msgstr "正在刪除設定&hellip; %s"
+
+#: includes/admin/tools.php:1294
+msgid "Deleting Roles and Capabilities&hellip; %s"
+msgstr "正在删除角色和功能&hellip; %s"
+
+#: includes/admin/topics.php:134
+msgid ""
+"This screen displays the individual topics on your site. You can customize "
+"the display of this screen to suit your workflow."
+msgstr ""
+"這個畫面顯示您網站裡的單篇話題。您可以自定義這個畫面的顯示以適合您的工作流程"
+
+#: includes/admin/topics.php:144
+msgid ""
+"You can hide/display columns based on your needs and decide how many topics "
+"to list per screen using the Screen Options tab."
+msgstr ""
+"您可以依據需要在顯示選項標籤中隱藏/顯示某些欄位，或者決定每頁顯示多少篇話題"
+
+#: includes/admin/topics.php:145
+msgid ""
+"You can filter the list of topics by topic status using the text links in "
+"the upper left to show All, Published, or Trashed topics. The default view "
+"is to show all topics."
+msgstr ""
+"您可以在上方左側的地方，根據話題的狀態對話題進行篩選。包括：全部回覆、已發"
+"表、待審核、草稿或回收桶回覆等。預設將顯示全部回覆"
+
+#: includes/admin/topics.php:146
+msgid ""
+"You can refine the list to show only topics from a specific month by using "
+"the dropdown menus above the topics list. Click the Filter button after "
+"making your selection. You also can refine the list by clicking on the topic "
+"creator in the topics list."
+msgstr ""
+"你可以使用話題上方的下拉選單細分該列表，只顯示具體月份的話題。標記好選擇後點"
+"選篩選按鈕。你也可以透過點選主題列表裡的發佈人細分列表"
+
+#: includes/admin/topics.php:155
+msgid ""
+"Hovering over a row in the topics list will display action links that allow "
+"you to manage your topic. You can perform the following actions:"
+msgstr ""
+"懸停在話題列表的某行時，將會顯示出一些主題管理鏈結。您可以執行以下操作 :"
+
+#: includes/admin/topics.php:157
+msgid ""
+"<strong>Edit</strong> takes you to the editing screen for that topic. You "
+"can also reach that screen by clicking on the topic title."
+msgstr ""
+"<strong>編輯</strong>轉到該話題的編輯頁面。您也可以透過點選話題標題到達此頁"
+
+#: includes/admin/topics.php:158
+msgid ""
+"<strong>Trash</strong> removes your topic from this list and places it in "
+"the trash, from which you can permanently delete it."
+msgstr "<strong>回收桶</strong>從列表裡移除您想永久刪除的話題到回收桶"
+
+#: includes/admin/topics.php:159
+msgid ""
+"<strong>Spam</strong> removes your topic from this list and places it in the "
+"spam queue, from which you can permanently delete it."
+msgstr "<strong>垃圾</strong>從列表裡移除您想永久删除的話題到回收桶"
+
+#: includes/admin/topics.php:160
+msgid ""
+"<strong>Preview</strong> will show you what your draft topic will look like "
+"if you publish it. View will take you to your live site to view the topic. "
+"Which link is available depends on your topic&#8217;s status."
+msgstr ""
+"<strong>預覽</strong>預覽你的草稿話題發表後的效果。可及時查看查看相關話題，是"
+"否可能與話題有關"
+
+#: includes/admin/topics.php:161
+msgid ""
+"<strong>Close</strong> will mark the selected topic as &#8217;closed&#8217; "
+"and disable the option to post new replies to the topic."
+msgstr ""
+"<strong>關閉</strong>標記所選話題狀態為&#8217;關閉&#8217;，並且停用發表新回覆"
+"到該話題的選項"
+
+#: includes/admin/topics.php:162
+msgid ""
+"<strong>Stick</strong> will keep the selected topic &#8217;pinned&#8217; to "
+"the top the parent forum topic list."
+msgstr ""
+"<strong>置顶</strong>所選話題將會被  &#8217;置頂&#8217; 保留在上層討論區主题"
+"列表的頂部"
+
+#: includes/admin/topics.php:163
+msgid ""
+"<strong>Stick <em>(to front)</em></strong> will keep the selected topic "
+"&#8217;pinned&#8217; to the top of ALL forums and be visable in any forums "
+"topics list."
+msgstr ""
+"<strong>置頂(em)</strong> 所選話題將會被 &#8217;置頂 &#8217;保留在所有討論區"
+"的頂部，并且會在任何討論區的話題列表裡顯示"
+
+#: includes/admin/topics.php:172
+msgid ""
+"You can also edit or move multiple topics to the trash at once. Select the "
+"topics you want to act on using the checkboxes, then select the action you "
+"want to take from the Bulk Actions menu and click Apply."
+msgstr ""
+"您可以一次編輯或移除多篇話題到回收桶。透過複選框選擇你需要處理的話題，然後使"
+"用行動選單選擇你需要的操作，並點選應用"
+
+#: includes/admin/topics.php:173
+msgid ""
+"When using Bulk Edit, you can change the metadata (categories, author, etc.) "
+"for all selected topics at once. To remove a topic from the grouping, just "
+"click the x next to its name in the Bulk Edit area that appears."
+msgstr ""
+"當使用批量編輯，一次性選擇所有話題改變其屬性數據（類別，作者，等。）從分類中"
+"移除一篇話題，只要點選它名字旁邊的 X 即可"
+
+#: includes/admin/topics.php:194
+msgid ""
+"The title field and the big topic editing Area are fixed in place, but you "
+"can reposition all the other boxes using drag and drop, and can minimize or "
+"expand them by clicking the title bar of each box. Use the Screen Options "
+"tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, "
+"Discussion, Slug, Author) or to choose a 1- or 2-column layout for this "
+"screen."
+msgstr ""
+"標題欄位和大型話題編輯區是固定的，但你可以拖放其框架，並可以透過標題欄對其進"
+"行放大和縮小。使用畫面選項卡，取消隱藏框架（摘要，發送引用，自定義字段，討"
+"論，代稱，作者），或選擇 1 或 2 欄位畫面佈局"
+
+#: includes/admin/topics.php:204
+msgid "Title and Topic Editor"
+msgstr "標題及話題編輯器"
+
+#: includes/admin/topics.php:206
+msgid ""
+"<strong>Title</strong> - Enter a title for your topic. After you enter a "
+"title, you&#8217;ll see the permalink below, which you can edit."
+msgstr ""
+"<strong>標題</strong> - 輸入話題的標題。當您輸入了一個標題，您會在下面看到可"
+"編輯的固定鏈結"
+
+#: includes/admin/topics.php:207
+msgid ""
+"<strong>Topic Editor</strong> - Enter the text for your topic. There are two "
+"modes of editing: Visual and HTML. Choose the mode by clicking on the "
+"appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon "
+"in the row to get a second row of controls. The HTML mode allows you to "
+"enter raw HTML along with your topic text. You can insert media files by "
+"clicking the icons above the topic editor and following the directions. You "
+"can go to the distraction-free writing screen via the Fullscreen icon in "
+"Visual mode (second to last in the top row) or the Fullscreen button in HTML "
+"mode (last in the row). Once there, you can make buttons visible by hovering "
+"over the top area. Exit Fullscreen back to the regular topic editor."
+msgstr ""
+"<strong>話題編輯</strong> - 輸入話題文字。有兩種編輯模式 : 可視化與 HTML，透"
+"過點選標籤選擇模式，可視化模式帶來所見即所得的方案。 HTML 模式，可讓您輸入 "
+"HTML 代碼到主題文字裡。您可以透過點選上面主題編輯器的圖標插入媒體文件。您可以"
+"使用全螢幕的圖標進入自由編寫畫面。全螢幕時，在上方可見區域有選單按鈕，退出全"
+"螢幕回到正常的主題編輯器"
+
+#: includes/admin/topics.php:210
+msgid ""
+"<strong>Publish</strong> - You can set the terms of publishing your topic in "
+"the Publish box. For Status, Visibility, and Publish (immediately), click on "
+"the Edit link to reveal more options. Visibility includes options for "
+"password-protecting a topic or making it stay at the top of your blog "
+"indefinitely (sticky). Publish (immediately) allows you to set a future or "
+"past date and time, so you can schedule a topic to be published in the "
+"future or backdate a topic."
+msgstr ""
+"<strong>發表</strong> - 您可以在發表框設定你的發佈條件。針對狀態，是否可見，"
+"發表（立即），點選編輯鏈結顯示更多選擇。是否可見，是否對話題設置密碼或文章長"
+"期出現在您的部落格頂部（置頂）。發表(立即)，允許你設定將來或過去的時間日期，"
+"您可以安排您主題被刊登的日期"
+
+#: includes/admin/topics.php:213
+msgid ""
+"<strong>Featured Image</strong> - This allows you to associate an image with "
+"your topic without inserting it. This is usually useful only if your theme "
+"makes use of the featured image as a topic thumbnail on the home page, a "
+"custom header, etc."
+msgstr ""
+"<strong>特色圖片</strong> - 允許您關聯一張圖像到你的話題。當你的主題支援特色"
+"圖片時，將會在首頁顯示話題的縮圖，如自定義標題"
+
+#: includes/admin/topics.php:218 includes/admin/topics.php:255
+msgid "Topic Attributes"
+msgstr "話題屬性"
+
+#: includes/admin/topics.php:220
+msgid "Select the attributes that your topic should have:"
+msgstr "選擇你的話題應該包含哪些屬性 :"
+
+#: includes/admin/topics.php:222
+msgid ""
+"<strong>Forum</strong> dropdown determines the parent forum that the topic "
+"belongs to. Select the forum or category from the dropdown, or leave the "
+"default (No Forum) to post the topic without an assigned forum."
+msgstr ""
+"<strong>討論區</strong>下拉選單指定主題所屬的上層討論區。從下拉選單選擇討論區"
+"或分類，或預設（無討論區）發表話題，不屬於任一討論區"
+
+#: includes/admin/topics.php:223
+msgid ""
+"<strong>Topic Type</strong> dropdown indicates the sticky status of the "
+"topic. Selecting the super sticky option would stick the topic to the front "
+"of your forums, i.e. the topic index, sticky option would stick the topic to "
+"its respective forum. Selecting normal would not stick the topic anywhere."
+msgstr ""
+"<strong>話題類型</strong>下拉選單指定話題的置頂狀態。選擇超級置頂可將話題置頂"
+"於討論區的首頁，即主題索引，置頂選擇可置頂話題到各自的討論區。選擇普通將不會"
+"置頂主題到任何地方"
+
+#: includes/admin/topics.php:485
+msgid "The topic was not found!"
+msgstr "没有找到話題 !"
+
+#: includes/admin/topics.php:575
+msgid "There was a problem opening the topic \"%1$s\"."
+msgstr "開放話題 \"%1$s\" 時出現問題"
+
+#: includes/admin/topics.php:575
+msgid "Topic \"%1$s\" successfully opened."
+msgstr "話題 \"%1$s\" 已完成開放"
+
+#: includes/admin/topics.php:579
+msgid "There was a problem closing the topic \"%1$s\"."
+msgstr "關閉話題 \"%1$s\" 時出現問題"
+
+#: includes/admin/topics.php:579
+msgid "Topic \"%1$s\" successfully closed."
+msgstr "話題 \"%1$s\" 已完成關閉"
+
+#: includes/admin/topics.php:583
+msgid "There was a problem sticking the topic \"%1$s\" to front."
+msgstr "在首頁置頂話題 \"%1$s\" 時出現問題"
+
+#: includes/admin/topics.php:583
+msgid "Topic \"%1$s\" successfully sticked to front."
+msgstr "話題 \"%1$s\" 已在首頁置頂完成"
+
+#: includes/admin/topics.php:587
+msgid "There was a problem sticking the topic \"%1$s\"."
+msgstr "置頂話題 \"%1$s\" 時出現問題"
+
+#: includes/admin/topics.php:587
+msgid "Topic \"%1$s\" successfully sticked."
+msgstr "話題\"%1$s\" 已完成置頂"
+
+#: includes/admin/topics.php:591
+msgid "There was a problem unsticking the topic \"%1$s\"."
+msgstr "取消置頂話題 \"%1$s\" 時出現問題"
+
+#: includes/admin/topics.php:591
+msgid "Topic \"%1$s\" successfully unsticked."
+msgstr "話題 \"%1$s\" 已完成取消置頂"
+
+#: includes/admin/topics.php:595
+msgid "There was a problem marking the topic \"%1$s\" as spam."
+msgstr "標記話題 \"%1$s\" 為垃圾文章時出現問題"
+
+#: includes/admin/topics.php:595
+msgid "Topic \"%1$s\" successfully marked as spam."
+msgstr "話題 \"%1$s\" 已完成標記為垃圾文章"
+
+#: includes/admin/topics.php:599
+msgid "There was a problem unmarking the topic \"%1$s\" as spam."
+msgstr "標記話題 \"%1$s\" 已完成取消垃圾文章標記"
+
+#: includes/admin/topics.php:599
+msgid "Topic \"%1$s\" successfully unmarked as spam."
+msgstr "話題 \"%1$s\" 已完成取消垃圾文章標記"
+
+#: includes/admin/topics.php:635 templates/default/bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr "参與人"
+
+#: includes/admin/topics.php:695 includes/extend/buddypress/groups.php:291
+#: templates/default/bbpress/form-topic.php:117
+msgid "(No Forum)"
+msgstr "(沒有討論區)"
+
+#: includes/admin/topics.php:730 includes/topics/template.php:2064
+msgid "No Replies"
+msgstr "目前沒有回應"
+
+#: includes/admin/topics.php:787
+msgid "Close this topic"
+msgstr "關閉這個話題"
+
+#: includes/admin/topics.php:787
+msgctxt "Close a Topic"
+msgid "Close"
+msgstr "關閉"
+
+#: includes/admin/topics.php:789
+msgid "Open this topic"
+msgstr "開放這個話題"
+
+#: includes/admin/topics.php:789
+msgctxt "Open a Topic"
+msgid "Open"
+msgstr "開放"
+
+#: includes/admin/topics.php:798
+msgid "Unstick this topic"
+msgstr "話題取消置頂"
+
+#: includes/admin/topics.php:798 includes/topics/template.php:2748
+msgid "Unstick"
+msgstr "取消置頂"
+
+#: includes/admin/topics.php:801
+msgid "Stick this topic to its forum"
+msgstr "話題置頂在討論區"
+
+#: includes/admin/topics.php:801 includes/topics/template.php:2747
+msgid "Stick"
+msgstr "置頂"
+
+#: includes/admin/topics.php:801
+msgid "Stick this topic to front"
+msgstr "話題置頂在討論區前面"
+
+#: includes/admin/topics.php:801 includes/topics/template.php:2749
+msgid "(to front)"
+msgstr "(到最前面)"
+
+#: includes/admin/topics.php:808
+msgid "Mark the topic as not spam"
+msgstr "將話題標記為非垃圾文章"
+
+#: includes/admin/topics.php:810
+msgid "Mark this topic as spam"
+msgstr "將話題標記為垃圾文章"
+
+#: includes/admin/topics.php:920
+msgid "Topic updated. <a href=\"%s\">View topic</a>"
+msgstr ""
+
+#: includes/admin/topics.php:929
+msgid "Topic updated."
+msgstr "話題已更新"
+
+#. translators: %s: date and time of the revision
+#: includes/admin/topics.php:934
+msgid "Topic restored to revision from %s"
+msgstr ""
+
+#: includes/admin/topics.php:938
+msgid "Topic created. <a href=\"%s\">View topic</a>"
+msgstr "話題已建立 <a href=\"%s\">觀看話題</a>"
+
+#: includes/admin/topics.php:941
+msgid "Topic saved."
+msgstr "話題已儲存"
+
+#: includes/admin/topics.php:944
+msgid "Topic submitted. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr ""
+
+#: includes/admin/topics.php:947
+msgid ""
+"Topic scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview topic</a>"
+msgstr ""
+
+#: includes/admin/topics.php:954
+msgid "Topic draft updated. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr ""
+
+#: includes/admin/users.php:87 includes/admin/users.php:213
+#: templates/default/bbpress/form-user-roles.php:20
+msgid "Forum Role"
+msgstr "討論區角色"
+
+#: includes/admin/users.php:96 includes/admin/users.php:100
+#: includes/users/template.php:1290
+msgid "&mdash; No role for these forums &mdash;"
+msgstr "&mdash; 沒有討論區角色 &mdash;"
+
+#: includes/admin/users.php:138 includes/admin/users.php:140
+msgid "Change forum role to&hellip;"
+msgstr "變更論壇角色為 &hellip;"
+
+#: includes/admin/users.php:144
+msgid "Change"
+msgstr "變更"
+
+#: includes/admin/users.php:212
+msgid "Site Role"
+msgstr "網站角色"
+
+#: includes/common/functions.php:112
+msgid "sometime"
+msgstr ""
+
+#: includes/common/functions.php:113
+msgid "right now"
+msgstr "現況"
+
+#: includes/common/functions.php:114
+msgid "%s ago"
+msgstr "%s 前"
+
+#: includes/common/functions.php:118
+msgid "year"
+msgstr "年"
+
+#: includes/common/functions.php:118
+msgid "years"
+msgstr "年"
+
+#: includes/common/functions.php:119
+msgid "month"
+msgstr "個月"
+
+#: includes/common/functions.php:119
+msgid "months"
+msgstr "個月"
+
+#: includes/common/functions.php:120
+msgid "week"
+msgstr "週"
+
+#: includes/common/functions.php:120
+msgid "weeks"
+msgstr "週"
+
+#: includes/common/functions.php:121
+msgid "day"
+msgstr "天"
+
+#: includes/common/functions.php:121
+msgid "days"
+msgstr "天"
+
+#: includes/common/functions.php:122
+msgid "hour"
+msgstr "小時"
+
+#: includes/common/functions.php:122
+msgid "hours"
+msgstr "小時"
+
+#: includes/common/functions.php:123
+msgid "minute"
+msgstr "分"
+
+#: includes/common/functions.php:124
+msgid "second"
+msgstr "秒"
+
+#: includes/common/functions.php:179
+msgctxt "Separator in time since"
+msgid ","
+msgstr ""
+
+#: includes/common/functions.php:512 includes/common/functions.php:544
+msgid "Private: %s"
+msgstr "私人 : %s"
+
+#: includes/common/functions.php:513 includes/common/functions.php:545
+msgid "Spammed: %s"
+msgstr "垃圾郵件 : %s"
+
+#: includes/common/functions.php:514 includes/common/functions.php:546
+msgid "Trashed: %s"
+msgstr "移至回收桶 : %s"
+
+#: includes/common/functions.php:624
+msgid "<strong>ERROR</strong>: Invalid author name submitted!"
+msgstr ""
+
+#: includes/common/functions.php:628
+msgid "<strong>ERROR</strong>: Invalid email address submitted!"
+msgstr ""
+
+#: includes/common/functions.php:1074
+msgid ""
+"%1$s wrote:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Post Link: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"You are receiving this email because you subscribed to a forum topic.\n"
+"\n"
+"Login and visit the topic to unsubscribe from these emails."
+msgstr ""
+
+#: includes/common/functions.php:1193
+msgid ""
+"%1$s wrote:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Topic Link: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"You are receiving this email because you subscribed to a forum.\n"
+"\n"
+"Login and visit the topic to unsubscribe from these emails."
+msgstr ""
+
+#: includes/common/functions.php:1905
+msgid ""
+"Conditional query tags do not work before the query is run. Before then, "
+"they always return false."
+msgstr ""
+
+#: includes/common/template.php:1441
+msgid "No topics available"
+msgstr "無可用話題"
+
+#: includes/common/template.php:1446
+msgid "No forums available"
+msgstr "無可用討論區"
+
+#: includes/common/template.php:1451
+msgid "None available"
+msgstr "沒有可用"
+
+#: includes/common/template.php:2122
+msgid "Home"
+msgstr ""
+
+#: includes/common/template.php:2192
+msgid "(Edit)"
+msgstr "(編輯)"
+
+#: includes/common/template.php:2196 includes/common/template.php:2310
+#: includes/common/template.php:2575 includes/core/theme-compat.php:739
+#: templates/default/extras/taxonomy-topic-tag-edit.php:17
+#: templates/default/extras/taxonomy-topic-tag.php:17
+msgid "Topic Tag: %s"
+msgstr "話題標籤 : %s"
+
+#: includes/common/template.php:2200 includes/forums/template.php:53
+#: includes/replies/template.php:53 includes/replies/template.php:1908
+#: includes/topics/template.php:53 includes/topics/template.php:2493
+#: templates/default/bbpress/user-details.php:65
+msgid "Edit"
+msgstr "編輯"
+
+#: includes/common/template.php:2217
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#: includes/common/template.php:2217
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: includes/common/template.php:2485
+msgid "Log Out"
+msgstr "登出"
+
+#: includes/common/template.php:2539
+msgid "Forum Edit: %s"
+msgstr "編輯討論區 : %s"
+
+#: includes/common/template.php:2544
+msgid "Topic Edit: %s"
+msgstr "編輯話題 : %s"
+
+#: includes/common/template.php:2549
+msgid "Reply Edit: %s"
+msgstr "編輯回覆 : %s"
+
+#: includes/common/template.php:2554
+msgid "Topic Tag Edit: %s"
+msgstr "編輯話題標籤 : %s"
+
+#: includes/common/template.php:2561
+msgid "Forum: %s"
+msgstr "討論區 : %s"
+
+#: includes/common/template.php:2566
+msgid "Topic: %s"
+msgstr "話題 : %s"
+
+#: includes/common/template.php:2584
+msgctxt "User viewing his/her own profile"
+msgid "Your"
+msgstr "您的"
+
+#: includes/common/template.php:2593
+msgid "%s's Topics"
+msgstr "%s的話題"
+
+#: includes/common/template.php:2597
+msgid "%s's Replies"
+msgstr "%s的回應"
+
+#: includes/common/template.php:2601
+#: templates/default/bbpress/user-details.php:48
+msgid "%s's Favorites"
+msgstr "%s的收藏"
+
+#: includes/common/template.php:2605
+#: templates/default/bbpress/user-details.php:58
+msgid "%s's Subscriptions"
+msgstr "%s的訂閱"
+
+#: includes/common/template.php:2609
+#: templates/default/bbpress/user-details.php:29
+msgid "%s's Profile"
+msgstr "%s的個人檔案"
+
+#: includes/common/template.php:2617
+msgid "Edit Your Profile"
+msgstr "編輯您的個人檔案"
+
+#: includes/common/template.php:2622
+#: templates/default/bbpress/user-details.php:65
+msgid "Edit %s's Profile"
+msgstr "編輯%s的個人檔案"
+
+#: includes/common/template.php:2630
+msgid "View: %s"
+msgstr "觀看 : %s"
+
+#: includes/common/widgets.php:39
+msgid ""
+"A simple login form with optional links to sign-up and lost password pages."
+msgstr "一個簡單的登錄表單包含可選擇的註冊及遺失密碼頁面連結"
+
+#: includes/common/widgets.php:42
+msgid "(bbPress) Login Widget"
+msgstr "(bbPress) 登入工具"
+
+#: includes/common/widgets.php:89 includes/common/widgets.php:110
+#: templates/default/bbpress/form-user-login.php:14
+#: templates/default/bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr "登入"
+
+#: includes/common/widgets.php:92
+#: templates/default/bbpress/form-user-edit.php:98
+#: templates/default/bbpress/form-user-login.php:17
+#: templates/default/bbpress/form-user-register.php:23
+msgid "Username"
+msgstr "用戶名"
+
+#: includes/common/widgets.php:97
+#: templates/default/bbpress/form-user-login.php:22
+msgid "Password"
+msgstr "密碼"
+
+#: includes/common/widgets.php:103
+msgid "Remember Me"
+msgstr "記住我"
+
+#: includes/common/widgets.php:122
+#: templates/default/bbpress/form-user-register.php:36
+msgid "Register"
+msgstr "註冊"
+
+#: includes/common/widgets.php:128
+#: templates/default/bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr "忘記密碼"
+
+#: includes/common/widgets.php:185 includes/common/widgets.php:337
+#: includes/common/widgets.php:465 includes/common/widgets.php:634
+#: includes/common/widgets.php:876 includes/common/widgets.php:1030
+#: includes/common/widgets.php:1234
+msgid "Title:"
+msgstr "標題 :"
+
+#: includes/common/widgets.php:190
+msgid "Register URI:"
+msgstr "註冊 URI:"
+
+#: includes/common/widgets.php:195
+msgid "Lost Password URI:"
+msgstr "遺失密碼 URI:"
+
+#: includes/common/widgets.php:243
+msgid "A list of registered optional topic views."
+msgstr "註冊可選話題視圖的列表"
+
+#: includes/common/widgets.php:246
+msgid "(bbPress) Topic Views List"
+msgstr "(bbPress) 話題檢視清單"
+
+#: includes/common/widgets.php:384
+msgid "The bbPress forum search form."
+msgstr "bbPress 討論區搜尋框"
+
+#: includes/common/widgets.php:387
+msgid "(bbPress) Forum Search Form"
+msgstr "(bbPress) 討論區搜尋表格"
+
+#: includes/common/widgets.php:483 includes/forums/template.php:58
+msgid "Search Forums"
+msgstr "搜尋論壇"
+
+#: includes/common/widgets.php:512
+msgid "A list of forums with an option to set the parent."
+msgstr "討論區上層設置的選項列表"
+
+#: includes/common/widgets.php:515
+msgid "(bbPress) Forums List"
+msgstr "(bbPress) 論壇列表"
+
+#: includes/common/widgets.php:640 includes/common/widgets.php:880
+msgid "Parent Forum ID:"
+msgstr "上層討論區 ID:"
+
+#: includes/common/widgets.php:646 includes/common/widgets.php:886
+msgid "\"0\" to show only root - \"any\" to show all"
+msgstr "\"0\" 顯示根目錄 - \"any\" 將顯示全部"
+
+#: includes/common/widgets.php:692
+msgid "A list of recent topics, sorted by popularity or freshness."
+msgstr "列出最近的話題，按熱門或新鮮度排序"
+
+#: includes/common/widgets.php:695
+msgid "(bbPress) Recent Topics"
+msgstr "(bbPress) 最新話題"
+
+#: includes/common/widgets.php:815
+msgctxt "widgets"
+msgid "by %1$s"
+msgstr "由 %1$s"
+
+#: includes/common/widgets.php:877
+msgid "Maximum topics to show:"
+msgstr "最多顯示多少話題 :"
+
+#: includes/common/widgets.php:889 includes/common/widgets.php:1236
+msgid "Show post date:"
+msgstr "顯示文章日期 :"
+
+#: includes/common/widgets.php:890
+msgid "Show topic author:"
+msgstr "顯示話題作者 :"
+
+#: includes/common/widgets.php:893
+msgid "Order By:"
+msgstr "順序按 :"
+
+#: includes/common/widgets.php:895
+msgid "Newest Topics"
+msgstr "新的話題"
+
+#: includes/common/widgets.php:896
+#: templates/default/extras/page-forum-statistics.php:34
+msgid "Popular Topics"
+msgstr "熱門話題"
+
+#: includes/common/widgets.php:897
+msgid "Topics With Recent Replies"
+msgstr "最近的回覆話題"
+
+#: includes/common/widgets.php:914
+msgid "Recent Topics"
+msgstr "最新話題"
+
+#: includes/common/widgets.php:948
+msgid "Some statistics from your forum."
+msgstr "您討論區的統計"
+
+#: includes/common/widgets.php:951
+msgid "(bbPress) Statistics"
+msgstr "(bbPress) 統計"
+
+#: includes/common/widgets.php:1048
+msgid "Forum Statistics"
+msgstr "論壇統計"
+
+#: includes/common/widgets.php:1078
+msgid "A list of the most recent replies."
+msgstr "最新回覆列表"
+
+#: includes/common/widgets.php:1081
+msgid "(bbPress) Recent Replies"
+msgstr "(bbPress) 近期回覆"
+
+#. translators: 1: reply author, 2: reply link, 3: reply timestamp
+#: includes/common/widgets.php:1166
+msgctxt "widgets"
+msgid "%1$s on %2$s %3$s"
+msgstr "%1$s 在 %2$s %3$s"
+
+#. translators: 1: reply link, 2: reply timestamp
+#: includes/common/widgets.php:1172
+msgctxt "widgets"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#. translators: 1: reply author, 2: reply link
+#: includes/common/widgets.php:1178
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr "%1$s 在 %2$s"
+
+#. translators: 1: reply link
+#: includes/common/widgets.php:1184
+msgctxt "widgets"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: includes/common/widgets.php:1235
+msgid "Maximum replies to show:"
+msgstr "回覆最多顯示 :"
+
+#: includes/common/widgets.php:1237
+msgid "Show reply author:"
+msgstr "顯示回覆作者 :"
+
+#: includes/common/widgets.php:1252
+msgid "Recent Replies"
+msgstr "近期回覆"
+
+#: includes/core/capabilities.php:380
+msgid "Keymaster"
+msgstr "網站管理員"
+
+#: includes/core/capabilities.php:386
+msgid "Moderator"
+msgstr "討論區版主"
+
+#: includes/core/capabilities.php:392
+msgid "Participant"
+msgstr "參與者"
+
+#: includes/core/capabilities.php:398
+msgid "Spectator"
+msgstr "旁觀者"
+
+#: includes/core/capabilities.php:404
+msgid "Blocked"
+msgstr "已封鎖"
+
+#: includes/core/capabilities.php:523
+msgid "Editable forum roles no longer exist."
+msgstr "編輯討論區角色不存在"
+
+#: includes/core/sub-actions.php:147
+msgid "The current user is being initialized without using $wp->init()."
+msgstr "目前用戶正在初始化，無需使用 $wp->init()."
+
+#: includes/core/update.php:186
+msgid "General"
+msgstr "一般"
+
+#: includes/core/update.php:187
+msgid "General chit-chat"
+msgstr "一般閒聊"
+
+#: includes/core/update.php:188
+msgid "Hello World!"
+msgstr "Hello World!"
+
+#: includes/core/update.php:189
+msgid "I am the first topic in your new forums."
+msgstr "我在新討論區的第一篇文章"
+
+#: includes/core/update.php:190
+msgid "Re: Hello World!"
+msgstr "Re: Hello World!"
+
+#: includes/core/update.php:191
+msgid "Oh, and this is what a reply looks like."
+msgstr "哦，這像是一篇回覆的樣子"
+
+#: includes/extend/akismet.php:309
+msgid "%1$s reported this %2$s as spam"
+msgstr "%1$s 已報告此 %2$s 為垃圾文章"
+
+#: includes/extend/akismet.php:316
+msgid "%1$s reported this %2$s as not spam"
+msgstr "%1$s 已報告此 %2$s 為非垃圾文章"
+
+#: includes/extend/akismet.php:405
+msgid "No response"
+msgstr "無回應"
+
+#: includes/extend/akismet.php:463
+msgid "Akismet caught this post as spam"
+msgstr "Akismet 將這篇文章辨識為垃圾文章"
+
+#: includes/extend/akismet.php:467 includes/extend/akismet.php:482
+msgid "Post status was changed to %s"
+msgstr "文章狀態變更為 %s"
+
+#: includes/extend/akismet.php:475
+msgid "Akismet cleared this post as not spam"
+msgstr "Akismet 將這篇文章辨識為非垃圾文章"
+
+#: includes/extend/akismet.php:489
+msgid ""
+"Akismet was unable to check this post (response: %s), will automatically "
+"retry again later."
+msgstr "Akismet 無法確認這篇文章(回應 : %s), 稍後會再次自動重試"
+
+#: includes/extend/akismet.php:735 includes/extend/akismet.php:745
+msgid "Akismet History"
+msgstr "Akismet 歷史記錄"
+
+#: includes/extend/akismet.php:793
+msgid "No recorded history. Akismet has not checked this post."
+msgstr "無歷史記錄。Akismet 還沒有檢查這篇文章"
+
+#: includes/extend/buddypress/activity.php:195
+msgid "New forum topic"
+msgstr "新討論區話題"
+
+#: includes/extend/buddypress/activity.php:196
+msgid "New forum reply"
+msgstr "新討論區回應"
+
+#: includes/extend/buddypress/activity.php:420
+msgid "%1$s started the topic %2$s in the forum %3$s"
+msgstr "%1$s 在討論區 %2$s 中刊登了話題 %3$s"
+
+#: includes/extend/buddypress/activity.php:565
+msgid "%1$s replied to the topic %2$s in the forum %3$s"
+msgstr "%1$s 在討論區 %2$s 中回覆了話題 %3$s"
+
+#: includes/extend/buddypress/groups.php:271
+#: includes/extend/buddypress/groups.php:274
+msgid "Group Forum Settings"
+msgstr "討論區群組設定"
+
+#: includes/extend/buddypress/groups.php:275
+#: includes/extend/buddypress/groups.php:476
+msgid ""
+"Create a discussion forum to allow members of this group to communicate in a "
+"structured, bulletin-board style fashion."
+msgstr "建立一個討論區，讓該組的成員在一個結構化溝通，時尚佈告欄"
+
+#: includes/extend/buddypress/groups.php:279
+#: includes/extend/buddypress/groups.php:479
+msgid "Yes. I want this group to have a forum."
+msgstr "是的，我希望此群組有一個討論區"
+
+#: includes/extend/buddypress/groups.php:282
+msgid "Saying no will not delete existing forum content."
+msgstr "取消並不會刪除現有的討論區內容"
+
+#: includes/extend/buddypress/groups.php:287
+msgid "Group Forum:"
+msgstr "討論區群組 :"
+
+#: includes/extend/buddypress/groups.php:295
+msgid ""
+"Network administrators can reconfigure which forum belongs to this group."
+msgstr "網路管理員可以配置哪些討論區屬於哪些群組"
+
+#: includes/extend/buddypress/groups.php:300
+msgid "Save Settings"
+msgstr "儲存設定"
+
+#: includes/extend/buddypress/groups.php:335
+#: includes/extend/buddypress/groups.php:494
+#: includes/extend/buddypress/notifications.php:129
+#: includes/forums/functions.php:118 includes/forums/functions.php:395
+#: includes/replies/functions.php:116 includes/replies/functions.php:518
+#: includes/replies/functions.php:1245 includes/topics/functions.php:122
+#: includes/topics/functions.php:520 includes/topics/functions.php:1153
+#: includes/topics/functions.php:1456 includes/topics/functions.php:1820
+#: includes/topics/functions.php:1859 includes/topics/functions.php:1916
+#: includes/users/functions.php:459 includes/users/functions.php:1174
+#: includes/users/functions.php:1280 includes/users/functions.php:1407
+#: includes/users/functions.php:1413
+msgid "<strong>ERROR</strong>: Are you sure you wanted to do that?"
+msgstr "<strong>錯誤</strong> : 你確定要這樣做嗎?"
+
+#: includes/extend/buddypress/groups.php:433
+msgctxt "group admin edit screen"
+msgid "Discussion Forum"
+msgstr "論壇"
+
+#: includes/extend/buddypress/groups.php:474
+msgid "Group Forum"
+msgstr "討論區群組"
+
+#: includes/extend/buddypress/groups.php:771
+msgid "This group does not currently have a forum."
+msgstr "這個群組目前還沒有討論區"
+
+#: includes/extend/buddypress/loader.php:105
+msgid "Search Forums..."
+msgstr "搜尋論壇…"
+
+#: includes/extend/buddypress/loader.php:293
+#: templates/default/bbpress/user-subscriptions.php:34
+msgid "Subscribed Topics"
+msgstr "已訂閱話題"
+
+#: includes/extend/buddypress/notifications.php:23
+msgid "Topic Replies"
+msgstr "話題回應"
+
+#: includes/extend/buddypress/notifications.php:26
+msgid "You have %d new replies"
+msgstr "您有 %d 新回覆"
+
+#: includes/extend/buddypress/notifications.php:30
+msgid "You have %d new reply to %2$s from %3$s"
+msgstr ""
+
+#: includes/extend/buddypress/notifications.php:32
+msgid "You have %d new reply to %s"
+msgstr ""
+
+#: includes/extend/buddypress/notifications.php:133
+msgid ""
+"<strong>ERROR</strong>: You do not have permission to mark notifications for "
+"that user."
+msgstr ""
+
+#: includes/forums/functions.php:131
+msgid ""
+"<strong>ERROR</strong>: You do not have permission to create new forums."
+msgstr "<strong>錯誤</strong> : 您沒有建立新話題權限"
+
+#: includes/forums/functions.php:155 includes/forums/functions.php:455
+msgid "<strong>ERROR</strong>: Your forum needs a title."
+msgstr "<strong>錯誤</strong> : 您的討論區需要一個標題"
+
+#: includes/forums/functions.php:167 includes/forums/functions.php:467
+msgid "<strong>ERROR</strong>: Your forum description cannot be empty."
+msgstr "<strong>錯誤</strong> : 您的討論區描述不能為空白"
+
+#: includes/forums/functions.php:181
+msgid "<strong>ERROR</strong>: Your forum must have a parent."
+msgstr "<strong>錯誤</strong> : 您的討論區需要有上層級"
+
+#: includes/forums/functions.php:188
+msgid ""
+"<strong>ERROR</strong>: This forum is a category. No forums can be created "
+"in this forum."
+msgstr "<strong>錯誤</strong> : 這個討論區為一個分類。無法在此討論區發表話題"
+
+#: includes/forums/functions.php:193 includes/forums/functions.php:431
+msgid "<strong>ERROR</strong>: This forum has been closed to new forums."
+msgstr "<strong>錯誤</strong> : 這個討論區已關閉發表新話題"
+
+#: includes/forums/functions.php:198 includes/forums/functions.php:436
+msgid ""
+"<strong>ERROR</strong>: This forum is private and you do not have the "
+"capability to read or create new forums in it."
+msgstr ""
+
+#: includes/forums/functions.php:203 includes/forums/functions.php:441
+msgid ""
+"<strong>ERROR</strong>: This forum is hidden and you do not have the "
+"capability to read or create new forums in it."
+msgstr ""
+
+#: includes/forums/functions.php:210 includes/replies/functions.php:293
+#: includes/topics/functions.php:260
+msgid "<strong>ERROR</strong>: Slow down; you move too fast."
+msgstr ""
+
+#: includes/forums/functions.php:215
+msgid "<strong>ERROR</strong>: This forum already exists."
+msgstr ""
+
+#: includes/forums/functions.php:220
+msgid "<strong>ERROR</strong>: Your forum cannot be created at this time."
+msgstr ""
+
+#: includes/forums/functions.php:384
+msgid "<strong>ERROR</strong>: Forum ID not found."
+msgstr ""
+
+#: includes/forums/functions.php:400
+msgid "<strong>ERROR</strong>: The forum you want to edit was not found."
+msgstr ""
+
+#: includes/forums/functions.php:405
+msgid "<strong>ERROR</strong>: You do not have permission to edit that forum."
+msgstr ""
+
+#: includes/forums/functions.php:472
+msgid "<strong>ERROR</strong>: Your forum cannot be edited at this time."
+msgstr ""
+
+#: includes/forums/functions.php:1602
+msgctxt "Open the forum"
+msgid "Open"
+msgstr "開啟"
+
+#: includes/forums/functions.php:1603
+msgctxt "Close the forum"
+msgid "Closed"
+msgstr "關閉"
+
+#: includes/forums/functions.php:1616
+msgctxt "Forum accepts new topics"
+msgid "Forum"
+msgstr "討論區"
+
+#: includes/forums/functions.php:1617
+msgctxt "Forum is a category"
+msgid "Category"
+msgstr "分類"
+
+#: includes/forums/functions.php:1630
+msgctxt "Make forum public"
+msgid "Public"
+msgstr "公開"
+
+#: includes/forums/functions.php:1631
+msgctxt "Make forum private"
+msgid "Private"
+msgstr "私人"
+
+#: includes/forums/functions.php:1632
+msgctxt "Make forum hidden"
+msgid "Hidden"
+msgstr "隱藏"
+
+#: includes/forums/template.php:51 includes/forums/template.php:55
+msgid "New Forum"
+msgstr "新討論區"
+
+#: includes/forums/template.php:52 templates/default/bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr "建立新討論區"
+
+#: includes/forums/template.php:54
+msgid "Edit Forum"
+msgstr "編輯討論區"
+
+#: includes/forums/template.php:56 includes/forums/template.php:57
+msgid "View Forum"
+msgstr "檢視討論區"
+
+#: includes/forums/template.php:59
+msgid "No forums found"
+msgstr "沒有討論區資料"
+
+#: includes/forums/template.php:60
+msgid "No forums found in Trash"
+msgstr "回收桶沒有討論區資料"
+
+#: includes/forums/template.php:61
+#: templates/default/bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr "上層討論區 :"
+
+#: includes/forums/template.php:827 includes/topics/template.php:1846
+#: includes/users/template.php:1058
+msgid "Subscribe"
+msgstr "訂閱"
+
+#: includes/forums/template.php:828 includes/topics/template.php:1847
+#: includes/users/template.php:1059
+msgid "Unsubscribe"
+msgstr "取消訂閱"
+
+#: includes/forums/template.php:1226 includes/forums/template.php:1964
+msgid "%s topic"
+msgid_plural "%s topics"
+msgstr[0] "%s 話題"
+
+#: includes/forums/template.php:1242 includes/topics/template.php:2120
+msgid " (+ %d hidden)"
+msgstr " (+ %d 隱藏)"
+
+#: includes/forums/template.php:1953 includes/topics/template.php:2104
+msgid "%s reply"
+msgid_plural "%s replies"
+msgstr[0] "%s回覆"
+
+#: includes/forums/template.php:1973
+msgid ""
+"This category contains %1$s and %2$s, and was last updated by %3$s %4$s."
+msgstr ""
+
+#: includes/forums/template.php:1975
+msgid "This forum contains %1$s and %2$s, and was last updated by %3$s %4$s."
+msgstr ""
+
+#: includes/forums/template.php:1981
+msgid "This category contains %1$s, and was last updated by %2$s %3$s."
+msgstr ""
+
+#: includes/forums/template.php:1983
+msgid "This forum contains %1$s, and was last updated by %2$s %3$s."
+msgstr ""
+
+#: includes/forums/template.php:1993
+msgid "This category contains %1$s and %2$s."
+msgstr ""
+
+#: includes/forums/template.php:1995
+msgid "This forum contains %1$s and %2$s."
+msgstr ""
+
+#: includes/forums/template.php:2003
+msgid "This category contains %1$s."
+msgstr ""
+
+#: includes/forums/template.php:2005
+msgid "This forum contains %1$s."
+msgstr ""
+
+#: includes/forums/template.php:2009
+msgid "This forum is empty."
+msgstr "這個討論區沒有文章"
+
+#: includes/replies/functions.php:142
+msgid "<strong>ERROR</strong>: You do not have permission to reply."
+msgstr "<strong>錯誤</strong> : 您無權進行回覆"
+
+#: includes/replies/functions.php:154
+msgid "<strong>ERROR</strong>: Topic ID is missing."
+msgstr "<strong>錯誤</strong> : 缺少主題ID"
+
+#: includes/replies/functions.php:158
+msgid "<strong>ERROR</strong>: Topic ID must be a number."
+msgstr "<strong>錯誤</strong> : 話題的 ID 必須是一個數字"
+
+#: includes/replies/functions.php:168
+msgid "<strong>ERROR</strong>: Topic ID cannot be a negative number."
+msgstr "<strong>錯誤</strong> : 話題的 ID 不能是一個負數"
+
+#: includes/replies/functions.php:172
+msgid "<strong>ERROR</strong>: Topic does not exist."
+msgstr "<strong>錯誤</strong> : 話題不存在"
+
+#: includes/replies/functions.php:191 includes/replies/functions.php:205
+#: includes/topics/functions.php:196 includes/topics/functions.php:210
+#: includes/topics/functions.php:535
+msgid "<strong>ERROR</strong>: Forum ID is missing."
+msgstr "<strong>錯誤</strong> : 缺少討論區 ID"
+
+#: includes/replies/functions.php:195 includes/topics/functions.php:200
+msgid "<strong>ERROR</strong>: Forum ID must be a number."
+msgstr "<strong>錯誤</strong> : 討論區 ID 必須是一個數字"
+
+#: includes/replies/functions.php:209 includes/topics/functions.php:214
+msgid "<strong>ERROR</strong>: Forum ID cannot be a negative number."
+msgstr "<strong>錯誤</strong> : 討論區 ID 不能是一個負數"
+
+#: includes/replies/functions.php:213 includes/topics/functions.php:218
+msgid "<strong>ERROR</strong>: Forum does not exist."
+msgstr "<strong>錯誤</strong> : 討論區不存在"
+
+#: includes/replies/functions.php:227 includes/replies/functions.php:574
+msgid ""
+"<strong>ERROR</strong>: This forum is a category. No replies can be created "
+"in this forum."
+msgstr ""
+"<strong>錯誤</strong> : 這個討論區為一個分類。沒有回覆能建立在這個討論區裡"
+
+#: includes/replies/functions.php:234 includes/replies/functions.php:581
+msgid "<strong>ERROR</strong>: This forum has been closed to new replies."
+msgstr "<strong>錯誤</strong> : 這個討論區已經關閉新回覆"
+
+#: includes/replies/functions.php:240 includes/replies/functions.php:587
+msgid ""
+"<strong>ERROR</strong>: This forum is private and you do not have the "
+"capability to read or create new replies in it."
+msgstr ""
+"<strong>錯誤</strong> : 這個討論區為私人討論區，您沒有權限閱讀和建立新回复"
+
+#: includes/replies/functions.php:246 includes/replies/functions.php:593
+msgid ""
+"<strong>ERROR</strong>: This forum is hidden and you do not have the "
+"capability to read or create new replies in it."
+msgstr ""
+"<strong>錯誤</strong> : 這個討論區為隱藏討論區，您沒有權限閱讀和建立新回覆"
+
+#: includes/replies/functions.php:288 includes/replies/functions.php:617
+msgid "<strong>ERROR</strong>: Your reply cannot be empty."
+msgstr "<strong>錯誤</strong> : 您的回覆不能留空"
+
+#: includes/replies/functions.php:298
+msgid ""
+"<strong>ERROR</strong>: Duplicate reply detected; it looks as though "
+"you&#8217;ve already said that!"
+msgstr "<strong>錯誤</strong> : 偵測到重複的回覆，您似乎已經發表過了 !"
+
+#: includes/replies/functions.php:303
+msgid "<strong>ERROR</strong>: Your reply cannot be created at this time."
+msgstr "<strong>錯誤</strong> : 您目前無法建立回覆"
+
+#: includes/replies/functions.php:320
+msgid "<strong>ERROR</strong>: Topic is closed."
+msgstr "<strong>錯誤</strong> : 話題已關閉"
+
+#: includes/replies/functions.php:379 includes/replies/functions.php:701
+msgid ""
+"<strong>ERROR</strong>: There was a problem adding the tags to the topic."
+msgstr "<strong>錯誤</strong> : 為文章添加標籤時出現問題"
+
+#: includes/replies/functions.php:507
+msgid "<strong>ERROR</strong>: Reply ID not found."
+msgstr "<strong>錯誤</strong> : 沒有找到回覆的 ID"
+
+#: includes/replies/functions.php:524
+msgid "<strong>ERROR</strong>: The reply you want to edit was not found."
+msgstr "<strong>錯誤</strong> : 沒有找到您要編輯的回覆"
+
+#: includes/replies/functions.php:535
+msgid "<strong>ERROR</strong>: You do not have permission to edit that reply."
+msgstr "<strong>錯誤</strong> : 您無權編輯該回覆"
+
+#: includes/replies/functions.php:622
+msgid "<strong>ERROR</strong>: Your reply cannot be edited at this time."
+msgstr "<strong>錯誤</strong> : 您目前無法編輯回覆"
+
+#: includes/replies/functions.php:1222
+msgid "<strong>ERROR</strong>: Reply ID to move not found!"
+msgstr "<strong>錯誤</strong> : 沒有找到回覆的 ID"
+
+#: includes/replies/functions.php:1231
+msgid "<strong>ERROR</strong>: The reply you want to move was not found."
+msgstr "<strong>錯誤</strong> : 沒有找到您要移動的回覆"
+
+#: includes/replies/functions.php:1240
+msgid "<strong>ERROR</strong>: The topic you want to move from was not found."
+msgstr "<strong>錯誤</strong> : 沒有找到您要移動的主題"
+
+#: includes/replies/functions.php:1251 includes/topics/functions.php:1164
+#: includes/topics/functions.php:1462
+msgid ""
+"<strong>ERROR</strong>: You do not have the permissions to edit the source "
+"topic."
+msgstr "<strong>錯誤</strong> : 您無權編輯原始話題"
+
+#: includes/replies/functions.php:1261
+msgid "<strong>ERROR</strong>: You need to choose a valid move option."
+msgstr "<strong>錯誤</strong> : 你需要選擇一個有效的移動選項"
+
+#: includes/replies/functions.php:1274 includes/topics/functions.php:1483
+msgid "<strong>ERROR</strong>: Destination topic ID not found!"
+msgstr "<strong>錯誤</strong> : 沒有找到目標話題 ID !"
+
+#: includes/replies/functions.php:1284
+msgid "<strong>ERROR</strong>: The topic you want to move to was not found!"
+msgstr "<strong>錯誤</strong> : 沒有找到您要移動的話題 !"
+
+#: includes/replies/functions.php:1289 includes/topics/functions.php:1496
+msgid ""
+"<strong>ERROR</strong>: You do not have the permissions to edit the "
+"destination topic!"
+msgstr "<strong>錯誤</strong> : 您無權編輯該目標話題 !"
+
+#: includes/replies/functions.php:1298 includes/replies/template.php:571
+#: includes/topics/functions.php:1294 includes/topics/functions.php:1652
+#: templates/default/bbpress/form-reply.php:29
+msgid "Reply To: %s"
+msgstr "回覆 : %s"
+
+#: includes/replies/functions.php:1343 includes/topics/functions.php:1533
+msgid ""
+"<strong>ERROR</strong>: There was a problem converting the reply into the "
+"topic. Please try again."
+msgstr "<strong>錯誤</strong> : 將回覆轉換成話題時出現問題，請重試"
+
+#: includes/replies/functions.php:1348 includes/topics/functions.php:1538
+msgid ""
+"<strong>ERROR</strong>: You do not have the permissions to create new "
+"topics. The reply could not be converted into a topic."
+msgstr ""
+"<strong>錯誤</strong> : 您無權建立新話題，因此您無法將回覆轉換成一個話題"
+
+#: includes/replies/functions.php:1530
+msgid "<strong>ERROR:</strong> You do not have the permission to do that!"
+msgstr "<strong>錯誤</strong> : 您無權執行此項操作 !"
+
+#: includes/replies/functions.php:1543
+msgid ""
+"<strong>ERROR</strong>: There was a problem unmarking the reply as spam!"
+msgstr "<strong>錯誤</strong> : 取消該回覆垃圾標記時出現問題 !"
+
+#: includes/replies/functions.php:1543
+msgid "<strong>ERROR</strong>: There was a problem marking the reply as spam!"
+msgstr "<strong>錯誤</strong> : 將該回覆標記為垃圾文章時出現問題 !"
+
+#: includes/replies/functions.php:1562
+msgid "<strong>ERROR</strong>: There was a problem trashing the reply!"
+msgstr "<strong>錯誤</strong> : 將該回覆移至回收桶時出現問題 !"
+
+#: includes/replies/functions.php:1570
+msgid "<strong>ERROR</strong>: There was a problem untrashing the reply!"
+msgstr "<strong>錯誤</strong> : 從回收桶移出該回覆時出現問題"
+
+#: includes/replies/functions.php:1578
+msgid "<strong>ERROR</strong>: There was a problem deleting the reply!"
+msgstr "<strong>錯誤</strong> : 刪除回覆時出現問題 !"
+
+#: includes/replies/functions.php:1992
+msgid "All Posts"
+msgstr "所有文章"
+
+#: includes/replies/functions.php:2034 includes/topics/functions.php:3465
+msgid "Replies: %s"
+msgstr "迴響 : %s"
+
+#: includes/replies/template.php:51 includes/replies/template.php:55
+msgid "New Reply"
+msgstr "新回覆"
+
+#: includes/replies/template.php:52
+msgid "Create New Reply"
+msgstr "建立新回覆"
+
+#: includes/replies/template.php:54
+msgid "Edit Reply"
+msgstr "編輯回覆"
+
+#: includes/replies/template.php:56 includes/replies/template.php:57
+msgid "View Reply"
+msgstr "查看回覆"
+
+#: includes/replies/template.php:58
+msgid "Search Replies"
+msgstr "搜尋回覆"
+
+#: includes/replies/template.php:59
+msgid "No replies found"
+msgstr "找不到回覆"
+
+#: includes/replies/template.php:60
+msgid "No replies found in Trash"
+msgstr "回收桶沒有相關回覆"
+
+#: includes/replies/template.php:706 includes/topics/template.php:809
+msgctxt "date at time"
+msgid "%1$s at %2$s"
+msgstr "%1$s 於 %2$s"
+
+#: includes/replies/template.php:804
+msgid "This reply was modified %1$s by %2$s. Reason: %3$s"
+msgstr "該回覆由 %2$s 於 %1$s 修改。原因  : %3$s"
+
+#: includes/replies/template.php:806
+msgid "This reply was modified %1$s by %2$s."
+msgstr "該回覆由 %2$s 於 %1$s 修改"
+
+#: includes/replies/template.php:1098 includes/topics/template.php:1368
+#: includes/users/template.php:184
+msgid "Anonymous"
+msgstr "匿名"
+
+#: includes/replies/template.php:1210 includes/topics/template.php:1481
+#: includes/users/template.php:1651
+msgid "View %s's profile"
+msgstr "觀看%s的個人檔案"
+
+#: includes/replies/template.php:1210 includes/topics/template.php:1481
+#: includes/users/template.php:1651
+msgid "Visit %s's website"
+msgstr "觀看%s的網站"
+
+#: includes/replies/template.php:1693
+msgid "Cancel"
+msgstr "取消"
+
+#: includes/replies/template.php:2034 includes/topics/template.php:2619
+#: templates/default/bbpress/form-topic-tag.php:88
+#: templates/default/bbpress/form-topic-tag.php:101
+msgid "Delete"
+msgstr "刪除"
+
+#: includes/replies/template.php:2051 includes/topics/template.php:2636
+msgid "Are you sure you want to delete that permanently?"
+msgstr "您確定要永久刪除？"
+
+#: includes/replies/template.php:2104 includes/topics/template.php:2875
+msgid "Unspam"
+msgstr "非垃圾"
+
+#: includes/replies/template.php:2167
+msgid "Move"
+msgstr "移動"
+
+#: includes/replies/template.php:2168
+msgid "Move this reply"
+msgstr "移動這篇回覆"
+
+#: includes/replies/template.php:2234
+msgid "Split"
+msgstr "分割"
+
+#: includes/replies/template.php:2235
+msgid "Split the topic from this reply"
+msgstr "將回覆由此話題分割"
+
+#: includes/replies/template.php:2341
+msgid "Viewing %1$s reply thread"
+msgid_plural "Viewing %1$s reply threads"
+msgstr[0] "查看 %1$s 話題回覆"
+
+#: includes/replies/template.php:2348
+msgid "Viewing %1$s reply"
+msgid_plural "Viewing %1$s replies"
+msgstr[0] "查看 %1$s 回覆"
+
+#: includes/replies/template.php:2352
+msgid "Viewing %2$s replies (of %4$s total)"
+msgid_plural "Viewing %1$s replies - %2$s through %3$s (of %4$s total)"
+msgstr[0] "正在查看 %2$s 篇回覆 (共 %4$s 篇)"
+
+#: includes/replies/template.php:2360
+msgid "Viewing %1$s post"
+msgid_plural "Viewing %1$s posts"
+msgstr[0] "正在查看 %1$s 篇文章"
+
+#: includes/replies/template.php:2364
+msgid "Viewing %2$s post (of %4$s total)"
+msgid_plural "Viewing %1$s posts - %2$s through %3$s (of %4$s total)"
+msgstr[0] "正在查看 %2$s 篇文章 (共 %4$s 篇)"
+
+#: includes/search/template.php:229
+msgid "Search Results for '%s'"
+msgstr "'%s'的搜尋結果"
+
+#: includes/search/template.php:401
+msgid "Viewing %1$s result"
+msgid_plural "Viewing %1$s results"
+msgstr[0] "正在查看 %1$s 篇結果"
+
+#: includes/search/template.php:405
+msgid "Viewing %2$s results (of %4$s total)"
+msgid_plural "Viewing %1$s results - %2$s through %3$s (of %4$s total)"
+msgstr[0] "正在查看 %2$s 篇結果 (共 %4$s 篇)"
+
+#: includes/topics/functions.php:150
+msgid ""
+"<strong>ERROR</strong>: You do not have permission to create new topics."
+msgstr "<strong>錯誤</strong> : 您無權建立新話題"
+
+#: includes/topics/functions.php:175 includes/topics/functions.php:585
+msgid "<strong>ERROR</strong>: Your topic needs a title."
+msgstr "<strong>錯誤</strong> : 您的話題需要有一個標題"
+
+#: includes/topics/functions.php:187 includes/topics/functions.php:597
+msgid "<strong>ERROR</strong>: Your topic cannot be empty."
+msgstr "<strong>錯誤</strong> : 您的話題內容不能為空"
+
+#: includes/topics/functions.php:232
+msgid ""
+"<strong>ERROR</strong>: This forum is a category. No topics can be created "
+"in this forum."
+msgstr "<strong>錯誤</strong> : 該討論區為一個分類。無法在該討論區發表話題"
+
+#: includes/topics/functions.php:239 includes/topics/functions.php:557
+msgid "<strong>ERROR</strong>: This forum has been closed to new topics."
+msgstr "<strong>錯誤</strong> : 該討論區已關閉發表話題 !"
+
+#: includes/topics/functions.php:245 includes/topics/functions.php:563
+msgid ""
+"<strong>ERROR</strong>: This forum is private and you do not have the "
+"capability to read or create new topics in it."
+msgstr ""
+"<strong>錯誤</strong> : 該討論區為私密討論區，您沒有權限閱讀該討論區和建立新"
+"話題"
+
+#: includes/topics/functions.php:251 includes/topics/functions.php:569
+msgid ""
+"<strong>ERROR</strong>: This forum is hidden and you do not have the "
+"capability to read or create new topics in it."
+msgstr ""
+"<strong>錯誤</strong> : 該討論區為隱藏討論區，您沒有權限閱讀該討論區和建立新"
+"話題"
+
+#: includes/topics/functions.php:265
+msgid ""
+"<strong>ERROR</strong>: Duplicate topic detected; it looks as though "
+"you&#8217;ve already said that!"
+msgstr "<strong>錯誤</strong> : 檢測到重複的話題；似乎您已經發表過了 !"
+
+#: includes/topics/functions.php:270
+msgid "<strong>ERROR</strong>: Your topic cannot be created at this time."
+msgstr "<strong>錯誤</strong> : 您目前無法建立話題"
+
+#: includes/topics/functions.php:482 includes/topics/functions.php:1146
+msgid "<strong>ERROR</strong>: Topic ID not found."
+msgstr "<strong>錯誤</strong> : 沒有找到話題 ID"
+
+#: includes/topics/functions.php:493
+msgid "<strong>ERROR</strong>: The topic you want to edit was not found."
+msgstr "<strong>錯誤</strong> : 沒有找到您要編輯的話題"
+
+#: includes/topics/functions.php:504
+msgid "<strong>ERROR</strong>: You do not have permission to edit that topic."
+msgstr "<strong>錯誤</strong> : 您無權編輯該話題"
+
+#: includes/topics/functions.php:550
+msgid ""
+"<strong>ERROR</strong>: This forum is a category. No topics can be created "
+"in it."
+msgstr "<strong>錯誤</strong> : 該討論區為一個分類。無法在該區發表話題"
+
+#: includes/topics/functions.php:602
+msgid "<strong>ERROR</strong>: Your topic cannot be edited at this time."
+msgstr "<strong>錯誤</strong> : 您目前無法編輯話題"
+
+#: includes/topics/functions.php:1158
+msgid "<strong>ERROR</strong>: The topic you want to merge was not found."
+msgstr "<strong>錯誤</strong> : 沒有找到您要合併的話題"
+
+#: includes/topics/functions.php:1172
+msgid "<strong>ERROR</strong>: Destination topic ID not found."
+msgstr "<strong>錯誤</strong> : 沒有找到目標話題 ID"
+
+#: includes/topics/functions.php:1178
+msgid "<strong>ERROR</strong>: The topic you want to merge to was not found."
+msgstr "<strong>錯誤</strong> : 沒有找到您要合併的話題"
+
+#: includes/topics/functions.php:1182
+msgid ""
+"<strong>ERROR</strong>: You do not have the permissions to edit the "
+"destination topic."
+msgstr "<strong>錯誤</strong> : 您無權編輯該目標話題"
+
+#: includes/topics/functions.php:1435
+msgid "<strong>ERROR</strong>: Reply ID to split the topic from not found!"
+msgstr "<strong>錯誤</strong>：沒有找您要分割的回覆 ID !"
+
+#: includes/topics/functions.php:1443
+msgid "<strong>ERROR</strong>: The reply you want to split from was not found."
+msgstr "<strong>錯誤</strong> : 沒有找到您要分割的回覆"
+
+#: includes/topics/functions.php:1452
+msgid "<strong>ERROR</strong>: The topic you want to split was not found."
+msgstr "<strong>錯誤</strong> : 沒有找到您要分割的話題"
+
+#: includes/topics/functions.php:1470
+msgid "<strong>ERROR</strong>: You need to choose a valid split option."
+msgstr "<strong>錯誤</strong> : 您需要選擇一個有效的分割選項"
+
+#: includes/topics/functions.php:1492
+msgid "<strong>ERROR</strong>: The topic you want to split to was not found!"
+msgstr "<strong>錯誤</strong> : 沒有找到您要分割的目標話題 !"
+
+#: includes/topics/functions.php:1808
+msgid ""
+"<strong>ERROR</strong>: The following problem(s) have been found while "
+"getting the tag: %s"
+msgstr "<strong>錯誤</strong> : 取得標籤 %s 時出現以下問題"
+
+#: includes/topics/functions.php:1826 includes/topics/functions.php:1865
+msgid ""
+"<strong>ERROR</strong>: You do not have the permissions to edit the topic "
+"tags."
+msgstr "<strong>錯誤</strong> : 您無權編輯話題標籤"
+
+#: includes/topics/functions.php:1832 includes/topics/functions.php:1871
+msgid "<strong>ERROR</strong>: You need to enter a tag name."
+msgstr "<strong>錯誤</strong> : 您需要輸入一個標籤名稱"
+
+#: includes/topics/functions.php:1842
+msgid ""
+"<strong>ERROR</strong>: The following problem(s) have been found while "
+"updating the tag: %s"
+msgstr "<strong>錯誤</strong> : 更新標籤 %s 時出現以下問題"
+
+#: includes/topics/functions.php:1881 includes/topics/functions.php:1899
+msgid ""
+"<strong>ERROR</strong>: The following problem(s) have been found while "
+"merging the tags: %s"
+msgstr "<strong>錯誤</strong> : 合併標籤 %s 時出現以下問題"
+
+#: includes/topics/functions.php:1890
+msgid ""
+"<strong>ERROR</strong>: The tags which are being merged can not be the same."
+msgstr "<strong>錯誤</strong> : 無法合併相同的標籤"
+
+#: includes/topics/functions.php:1922
+msgid ""
+"<strong>ERROR</strong>: You do not have the permissions to delete the topic "
+"tags."
+msgstr "<strong>錯誤</strong> : 您無權刪除主題標籤"
+
+#: includes/topics/functions.php:1931
+msgid ""
+"<strong>ERROR</strong>: The following problem(s) have been found while "
+"deleting the tag: %s"
+msgstr "<strong>錯誤</strong>：刪除標籤 %s 時出現以下問題"
+
+#: includes/topics/functions.php:1965
+msgctxt "Open the topic"
+msgid "Open"
+msgstr "開放"
+
+#: includes/topics/functions.php:1966
+msgctxt "Close the topic"
+msgid "Closed"
+msgstr "關閉"
+
+#: includes/topics/functions.php:1967
+msgctxt "Spam the topic"
+msgid "Spam"
+msgstr "垃圾"
+
+#: includes/topics/functions.php:1968
+msgctxt "Trash the topic"
+msgid "Trash"
+msgstr "回收桶"
+
+#: includes/topics/functions.php:1969
+msgctxt "Mark topic as pending"
+msgid "Pending"
+msgstr "審核中"
+
+#: includes/topics/functions.php:1982
+msgctxt "Unstick a topic"
+msgid "Normal"
+msgstr "一般"
+
+#: includes/topics/functions.php:1983
+msgctxt "Make topic sticky"
+msgid "Sticky"
+msgstr "置頂"
+
+#: includes/topics/functions.php:1984
+msgctxt "Make topic super sticky"
+msgid "Super Sticky"
+msgstr "超級置頂"
+
+#: includes/topics/functions.php:2090
+msgid "<strong>ERROR:</strong> You do not have the permission to do that."
+msgstr "<strong>錯誤</strong> : 您無權執行此項操作"
+
+#: includes/topics/functions.php:2103
+msgid "<strong>ERROR</strong>: There was a problem closing the topic."
+msgstr "<strong>錯誤</strong> : 關閉該話題時出現問題"
+
+#: includes/topics/functions.php:2103
+msgid "<strong>ERROR</strong>: There was a problem opening the topic."
+msgstr "<strong>錯誤</strong> : 開放該話題時出現問題"
+
+#: includes/topics/functions.php:2114
+msgid "<strong>ERROR</strong>: There was a problem unsticking the topic."
+msgstr "<strong>錯誤</strong> : 取消話題置頂時出現錯誤"
+
+#: includes/topics/functions.php:2114
+msgid "<strong>ERROR</strong>: There was a problem sticking the topic."
+msgstr "<strong>錯誤</strong> : 話題置頂時出現錯誤"
+
+#: includes/topics/functions.php:2124
+msgid ""
+"<strong>ERROR</strong>: There was a problem unmarking the topic as spam."
+msgstr "<strong>錯誤</strong> : 取消該話題垃圾文章標記時出現問題"
+
+#: includes/topics/functions.php:2124
+msgid "<strong>ERROR</strong>: There was a problem marking the topic as spam."
+msgstr "<strong>錯誤</strong> : 將該話題標記為垃圾文章時出現問題"
+
+#: includes/topics/functions.php:2143
+msgid "<strong>ERROR</strong>: There was a problem trashing the topic."
+msgstr "<strong>錯誤</strong> : 將該話題移入回收桶時出現問題"
+
+#: includes/topics/functions.php:2151
+msgid "<strong>ERROR</strong>: There was a problem untrashing the topic."
+msgstr "<strong>錯誤</strong> : 從回收桶移出該話題時出現問題"
+
+#: includes/topics/functions.php:2159
+msgid "<strong>ERROR</strong>: There was a problem deleting the topic."
+msgstr "<strong>錯誤</strong> : 刪除話題時出現問題"
+
+#: includes/topics/template.php:51 includes/topics/template.php:55
+msgid "New Topic"
+msgstr "新話題"
+
+#: includes/topics/template.php:52 templates/default/bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr "建立新話題"
+
+#: includes/topics/template.php:54
+msgid "Edit Topic"
+msgstr "編輯話題"
+
+#: includes/topics/template.php:56 includes/topics/template.php:57
+msgid "View Topic"
+msgstr "觀看話題"
+
+#: includes/topics/template.php:58
+msgid "Search Topics"
+msgstr "搜尋話題"
+
+#: includes/topics/template.php:59
+msgid "No topics found"
+msgstr "沒有任何話題"
+
+#: includes/topics/template.php:60
+msgid "No topics found in Trash"
+msgstr "回收桶沒有任何話題"
+
+#: includes/topics/template.php:991
+msgid "This topic was modified %1$s by %2$s. Reason: %3$s"
+msgstr "這個話題由 %2$s 於 %1$s 修改。原因：%3$s"
+
+#: includes/topics/template.php:993
+msgid "This topic was modified %1$s by %2$s."
+msgstr "這個話題由 %2$s 於 %1$s 修改"
+
+#: includes/topics/template.php:1891 includes/users/template.php:894
+msgid "Favorite"
+msgstr "收藏"
+
+#: includes/topics/template.php:1892
+msgid "Unfavorite"
+msgstr "取消收藏"
+
+#: includes/topics/template.php:2297
+msgid "Tagged:"
+msgstr "標籤 :"
+
+#: includes/topics/template.php:2687
+msgctxt "Topic Status"
+msgid "Close"
+msgstr "關閉"
+
+#: includes/topics/template.php:2688
+msgctxt "Topic Status"
+msgid "Open"
+msgstr "開放"
+
+#: includes/topics/template.php:2818
+#: templates/default/bbpress/form-topic-tag.php:59
+#: templates/default/bbpress/form-topic-tag.php:73
+msgid "Merge"
+msgstr "合併"
+
+#: includes/topics/template.php:2979
+msgid "Viewing %1$s topic"
+msgid_plural "Viewing %1$s topics"
+msgstr[0] "正在查看 %1$s 篇話題"
+
+#: includes/topics/template.php:2983
+msgid "Viewing topic %2$s (of %4$s total)"
+msgid_plural "Viewing %1$s topics - %2$s through %3$s (of %4$s total)"
+msgstr[0] "正在查看 %2$s 篇話題 (共 %4$s 篇)"
+
+#: includes/topics/template.php:3043
+msgid "This topic is marked as spam."
+msgstr "這個話題已標記為垃圾"
+
+#: includes/topics/template.php:3048
+msgid "This topic is in the trash."
+msgstr "這個話題已移至回收桶"
+
+#: includes/topics/template.php:3308
+msgid "%s voice"
+msgid_plural "%s voices"
+msgstr[0] "%s 位討論者"
+
+#: includes/topics/template.php:3314
+msgid "This topic contains %1$s, has %2$s, and was last updated by %3$s %4$s."
+msgstr "這篇話題包含 %1$s，有 %2$s，並由 %3$s 於 %4$s 最後一次更新"
+
+#: includes/topics/template.php:3318
+msgid "This topic contains %1$s and has %2$s."
+msgstr "這篇話題包含 %1$s 及 %2$s"
+
+#: includes/topics/template.php:3322
+msgid "This topic has no replies."
+msgstr "這篇話題沒有回覆"
+
+#: includes/topics/template.php:3368
+#: templates/default/bbpress/content-statistics.php:37
+msgid "Topic Tags"
+msgstr "話題標籤"
+
+#: includes/topics/template.php:3370
+msgid "Search Tags"
+msgstr "搜尋標籤"
+
+#: includes/topics/template.php:3371
+msgid "Popular Tags"
+msgstr "熱門標籤"
+
+#: includes/topics/template.php:3372
+msgid "All Tags"
+msgstr "所有標籤"
+
+#: includes/topics/template.php:3373
+msgid "Edit Tag"
+msgstr "編輯標籤"
+
+#: includes/topics/template.php:3374
+msgid "Update Tag"
+msgstr "更新標籤"
+
+#: includes/topics/template.php:3375
+msgid "Add New Tag"
+msgstr "新增標籤"
+
+#: includes/topics/template.php:3376
+msgid "New Tag Name"
+msgstr "新標籤名稱"
+
+#: includes/topics/template.php:3377
+msgid "View Topic Tag"
+msgstr "查看話題標籤"
+
+#: includes/users/functions.php:455
+msgid ""
+"<strong>ERROR</strong>: No topic was found! Which topic are you marking/"
+"unmarking as favorite?"
+msgstr ""
+"<strong>錯誤</strong> : 沒有找到話題 ! 哪個是您正標記/取消標記收藏的話題 ?"
+
+#: includes/users/functions.php:463 includes/users/functions.php:1178
+#: includes/users/functions.php:1284
+msgid ""
+"<strong>ERROR</strong>: You don't have the permission to edit favorites of "
+"that user!"
+msgstr "<strong>錯誤</strong> : 您無權限編輯該用戶的收藏夾"
+
+#: includes/users/functions.php:506
+msgid ""
+"<strong>ERROR</strong>: There was a problem removing that topic from "
+"favorites!"
+msgstr "<strong>錯誤</strong> : 從收藏夾中移出該話題時出現問題 !"
+
+#: includes/users/functions.php:508
+msgid "<strong>ERROR</strong>: There was a problem favoriting that topic!"
+msgstr "<strong>錯誤</strong> : 收藏該話題時出現問題 !"
+
+#: includes/users/functions.php:1170
+msgid ""
+"<strong>ERROR</strong>: No forum was found! Which forum are you subscribing/"
+"unsubscribing to?"
+msgstr "<strong>錯誤</strong> : 沒有找到話題 ! 哪個是您正訂閱/取消訂閱的話題 ?"
+
+#: includes/users/functions.php:1223
+msgid ""
+"<strong>ERROR</strong>: There was a problem unsubscribing from that forum!"
+msgstr "<strong>錯誤</strong> : 取消訂閱該討論區時出現問題 !"
+
+#: includes/users/functions.php:1225
+msgid "<strong>ERROR</strong>: There was a problem subscribing to that forum!"
+msgstr "<strong>錯誤</strong> : 訂閱該討論區時出現問題 !"
+
+#: includes/users/functions.php:1276
+msgid ""
+"<strong>ERROR</strong>: No topic was found! Which topic are you subscribing/"
+"unsubscribing to?"
+msgstr ""
+"<strong>錯誤</strong> : 没有找到話題 ! 哪個是您正在訂閱/取消訂閱的話題 ?"
+
+#: includes/users/functions.php:1329
+msgid ""
+"<strong>ERROR</strong>: There was a problem unsubscribing from that topic!"
+msgstr "<strong>錯誤</strong> : 取消訂閱話題時出現問題 !"
+
+#: includes/users/functions.php:1331
+msgid "<strong>ERROR</strong>: There was a problem subscribing to that topic!"
+msgstr "<strong>錯誤</strong>：訂閱話題時出現問題！"
+
+#: includes/users/template.php:503
+msgid "Guest"
+msgstr "訪客"
+
+#: includes/users/template.php:507
+msgid "Inactive"
+msgstr "非活動"
+
+#: includes/users/template.php:517
+msgid "Member"
+msgstr "會員"
+
+#: includes/users/template.php:557
+msgid "Admin"
+msgstr "管理員"
+
+#: includes/users/template.php:895
+msgid "Favorited"
+msgstr "已收藏"
+
+#: includes/users/template.php:1163
+msgid "User updated."
+msgstr "用戶已更新"
+
+#: includes/users/template.php:1188
+msgid "You have super admin privileges."
+msgstr "您有超級管理員權限"
+
+#: includes/users/template.php:1188
+msgid "This user has super admin privileges."
+msgstr "這個用戶擁有超級管理員權限"
+
+#: includes/users/template.php:1255
+msgid "&mdash; No role for this site &mdash;"
+msgstr "&mdash; 網站上沒有角色 &mdash;"
+
+#: includes/users/template.php:1453
+msgid "You are now logged out."
+msgstr "您已登出"
+
+#: includes/users/template.php:1457
+msgid "New user registration is currently not allowed."
+msgstr "目前不接受新用戶註冊"
+
+#: includes/users/template.php:1466
+msgid "Check your e-mail for the confirmation link."
+msgstr "請檢查您的電子郵件查看您的確認鏈結"
+
+#: includes/users/template.php:1471
+msgid "Check your e-mail for your new password."
+msgstr "請檢查您的電子郵件查看您的新密碼"
+
+#: includes/users/template.php:1476
+msgid "Registration complete. Please check your e-mail."
+msgstr "註冊完成。請檢查您的電子郵件"
+
+#: templates/default/bbpress/content-statistics.php:17
+msgid "Registered Users"
+msgstr "已註冊用戶"
+
+#: templates/default/bbpress/content-statistics.php:44
+msgid "Empty Topic Tags"
+msgstr "空的話題標籤"
+
+#: templates/default/bbpress/content-statistics.php:53
+msgid "Hidden Topics"
+msgstr "隱藏話題"
+
+#: templates/default/bbpress/content-statistics.php:64
+msgid "Hidden Replies"
+msgstr "隱藏回覆"
+
+#: templates/default/bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr "您已登錄"
+
+#: templates/default/bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr "私人"
+
+#: templates/default/bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr "您沒有瀏覽這個討論區權限"
+
+#: templates/default/bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr "很抱歉 ! 討論區沒有任何發現 !"
+
+#: templates/default/bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr "很抱歉 ! 回覆沒有任何發現 !"
+
+#: templates/default/bbpress/feedback-no-search.php:13
+msgid "Oh bother! No search results were found here!"
+msgstr "很抱歉 ! 搜尋結果沒有任何發現 !"
+
+#: templates/default/bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr "很抱歉！這裡目前沒有任何話題"
+
+#: templates/default/bbpress/form-anonymous.php:17
+msgid "Your information:"
+msgstr "您的個人資料 :"
+
+#: templates/default/bbpress/form-anonymous.php:22
+msgid "Name (required):"
+msgstr "名稱 (須填寫):"
+
+#: templates/default/bbpress/form-anonymous.php:27
+msgid "Mail (will not be published) (required):"
+msgstr "Mail (不會被公開) (須填寫):"
+
+#: templates/default/bbpress/form-forum.php:35
+#: templates/default/bbpress/form-topic.php:41
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "立刻編輯 &ldquo;%s&rdquo;"
+
+#: templates/default/bbpress/form-forum.php:37
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr "在 &ldquo;%s&rdquo; 建立新討論區"
+
+#: templates/default/bbpress/form-forum.php:47
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr "這個討論區關閉了新的內容，但你的帳號仍然允許你這樣做"
+
+#: templates/default/bbpress/form-forum.php:55
+#: templates/default/bbpress/form-reply.php:44
+#: templates/default/bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "您的帳號沒有限制，可發表 HTML 的內容"
+
+#: templates/default/bbpress/form-forum.php:67
+msgid "Forum Name (Maximum Length: %d):"
+msgstr "討論區名稱（最大字符數 : %d 個字元）:"
+
+#: templates/default/bbpress/form-forum.php:82
+#: templates/default/bbpress/form-reply.php:64
+#: templates/default/bbpress/form-topic.php:90
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+"您可以使用這些 <abbr title=\"HyperText Markup Language\">HTML</abbr> 標籤及屬"
+"性 :"
+
+#: templates/default/bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr "討論區類型 :"
+
+#: templates/default/bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr "(無上層)"
+
+#: templates/default/bbpress/form-forum.php:138
+#: templates/default/bbpress/form-reply-move.php:72
+#: templates/default/bbpress/form-reply.php:135
+#: templates/default/bbpress/form-topic-merge.php:93
+#: templates/default/bbpress/form-topic-split.php:97
+#: templates/default/bbpress/form-topic.php:203
+msgid "Submit"
+msgstr "送出"
+
+#: templates/default/bbpress/form-forum.php:161
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr "討論區 &#8216;%s&#8217; 已關閉，不允許發表新話題和回覆"
+
+#: templates/default/bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr "您無法建立新的討論區"
+
+#: templates/default/bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr "您必須登入才能建立新討論區"
+
+#: templates/default/bbpress/form-protected.php:14
+msgid "Protected"
+msgstr "受保護"
+
+#: templates/default/bbpress/form-reply-move.php:24
+msgid "Move reply \"%s\""
+msgstr "移動回覆 \"%s\""
+
+#: templates/default/bbpress/form-reply-move.php:29
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr "你可以使用這篇回覆建立新話題與新標題，或將其合併到現有的話題"
+
+#: templates/default/bbpress/form-reply-move.php:33
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr "如果您選擇現有的話題與回覆，將會以其建立時間排序"
+
+#: templates/default/bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr "移動方式"
+
+#: templates/default/bbpress/form-reply-move.php:41
+#: templates/default/bbpress/form-topic-split.php:41
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr "<strong>%s</strong>中新話題的標題 :"
+
+#: templates/default/bbpress/form-reply-move.php:42
+msgid "Moved: %s"
+msgstr "已移動 : %s"
+
+#: templates/default/bbpress/form-reply-move.php:49
+#: templates/default/bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr "使用此討論區現有的話題 :"
+
+#: templates/default/bbpress/form-reply-move.php:68
+#: templates/default/bbpress/form-topic-merge.php:89
+#: templates/default/bbpress/form-topic-split.php:93
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr "<strong>警告 :</strong> 這個過程無法復原"
+
+#: templates/default/bbpress/form-reply-move.php:85
+msgid "You do not have the permissions to edit this reply!"
+msgstr "您沒有編輯此篇回覆的權限 !"
+
+#: templates/default/bbpress/form-reply-move.php:85
+msgid "You cannot edit this reply."
+msgstr "您無法編輯這篇回覆"
+
+#: templates/default/bbpress/form-reply.php:36
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr "這篇話題已被標記為關閉新回覆，不過您的發表權限仍然允許您進行回覆"
+
+#: templates/default/bbpress/form-reply.php:75
+msgid "Tags:"
+msgstr "標籤 :"
+
+#: templates/default/bbpress/form-reply.php:93
+#: templates/default/bbpress/form-topic.php:164
+msgid "Notify the author of follow-up replies via email"
+msgstr "當有回覆時，透過電子郵件通知作者"
+
+#: templates/default/bbpress/form-reply.php:97
+#: templates/default/bbpress/form-topic.php:168
+msgid "Notify me of follow-up replies via email"
+msgstr "有後續回覆時使用電子郵件通知我"
+
+#: templates/default/bbpress/form-reply.php:114
+#: templates/default/bbpress/form-topic.php:184
+msgid "Keep a log of this edit:"
+msgstr "記錄這個編輯日誌 :"
+
+#: templates/default/bbpress/form-reply.php:118
+#: templates/default/bbpress/form-topic.php:188
+msgid "Optional reason for editing:"
+msgstr "編輯理由選擇性 :"
+
+#: templates/default/bbpress/form-reply.php:158
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "話題 &#8216;%s&#8217; 已關閉，不允許發表新回覆"
+
+#: templates/default/bbpress/form-reply.php:166
+#: templates/default/bbpress/form-topic.php:226
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "討論區 &#8216;%s&#8217; 已關閉，不允許發佈新話題及回覆"
+
+#: templates/default/bbpress/form-reply.php:174
+msgid "You cannot reply to this topic."
+msgstr "你無法回覆這篇話題"
+
+#: templates/default/bbpress/form-reply.php:174
+msgid "You must be logged in to reply to this topic."
+msgstr "您必須登入才能回覆話題"
+
+#: templates/default/bbpress/form-search.php:14
+msgid "Search for:"
+msgstr "搜尋 :"
+
+#: templates/default/bbpress/form-topic-merge.php:24
+msgid "Merge topic \"%s\""
+msgstr "合併話題 \"%s\""
+
+#: templates/default/bbpress/form-topic-merge.php:29
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+"選擇此話題將要進行合併的話題。目標話題將繼續做為主話題，原本話題將做為一篇回"
+"覆"
+
+#: templates/default/bbpress/form-topic-merge.php:30
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr "如果保持此話題為主要話題，那麼請到另外一篇話題中使用合併工具進行操作"
+
+#: templates/default/bbpress/form-topic-merge.php:34
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+"兩個話題中的回覆將按照時間順序進行合併。合併的回覆整合它們發佈的時間和日期。"
+"如果目標話題建立時間晚於此話題，它的時間將被更新為稍早於該話題幾秒鐘"
+
+#: templates/default/bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr "目標"
+
+#: templates/default/bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr "合併這篇話題 :"
+
+#: templates/default/bbpress/form-topic-merge.php:56
+msgid "There are no other topics in this forum to merge with."
+msgstr "在該討論區中沒有其它可供合併的話題"
+
+#: templates/default/bbpress/form-topic-merge.php:64
+#: templates/default/bbpress/form-topic-split.php:68
+msgid "Topic Extras"
+msgstr "話題附加功能"
+
+#: templates/default/bbpress/form-topic-merge.php:71
+msgid "Merge topic subscribers"
+msgstr "合併話題訂閱"
+
+#: templates/default/bbpress/form-topic-merge.php:76
+msgid "Merge topic favoriters"
+msgstr "合併話題收藏"
+
+#: templates/default/bbpress/form-topic-merge.php:81
+msgid "Merge topic tags"
+msgstr "合併話題標籤"
+
+#: templates/default/bbpress/form-topic-merge.php:106
+#: templates/default/bbpress/form-topic-split.php:110
+msgid "You do not have the permissions to edit this topic!"
+msgstr "您沒有編輯這個話題的權限 !"
+
+#: templates/default/bbpress/form-topic-merge.php:106
+#: templates/default/bbpress/form-topic-split.php:110
+msgid "You cannot edit this topic."
+msgstr "你無法編輯這個話題"
+
+#: templates/default/bbpress/form-topic-split.php:24
+msgid "Split topic \"%s\""
+msgstr "分割話題\"%s\""
+
+#: templates/default/bbpress/form-topic-split.php:29
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+"當您分割一個話題時，您是將已選的回覆從原文章中分割。您可以為該回覆賦予一個新"
+"的標題做為一個新話題，或者將其與現有的話題進行合併"
+
+#: templates/default/bbpress/form-topic-split.php:33
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+"如果您使用現有話題選項，這兩篇文章中的回覆將按照時間順序進行合併。合併後的回"
+"覆是基於它們的發佈時間和日期進行排序"
+
+#: templates/default/bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr "分割方式"
+
+#: templates/default/bbpress/form-topic-split.php:42
+msgid "Split: %s"
+msgstr "分割 : %s"
+
+#: templates/default/bbpress/form-topic-split.php:75
+msgid "Copy subscribers to the new topic"
+msgstr "複製訂閱為新話題"
+
+#: templates/default/bbpress/form-topic-split.php:80
+msgid "Copy favoriters to the new topic"
+msgstr "複製收藏為新話題"
+
+#: templates/default/bbpress/form-topic-split.php:85
+msgid "Copy topic tags to the new topic"
+msgstr "複製話題標籤為新話題"
+
+#: templates/default/bbpress/form-topic-tag.php:18
+msgid "Manage Tag: \"%s\""
+msgstr "管理標籤 : \"%s\""
+
+#: templates/default/bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr "重新命名"
+
+#: templates/default/bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr "代稱位置為空白將會自動產生"
+
+#: templates/default/bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr "更改代稱將影響它們的永久鏈結。所有舊的代稱鏈結將無法訪問"
+
+#: templates/default/bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr "代稱 :"
+
+#: templates/default/bbpress/form-topic-tag.php:45
+msgid "Update"
+msgstr "更新"
+
+#: templates/default/bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr "合併標籤無法還原"
+
+#: templates/default/bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr "現有標籤 :"
+
+#: templates/default/bbpress/form-topic-tag.php:73
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr "您確定要將 \"%s\" 標籤與您指定的標籤合併 ?"
+
+#: templates/default/bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "這不會刪除您的話題。只會刪除標籤本身"
+
+#: templates/default/bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr "刪除標籤將無法復原"
+
+#: templates/default/bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr "所有指向該標籤的鏈結將不再生效"
+
+#: templates/default/bbpress/form-topic-tag.php:101
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr "您確定要删除 \"%s\" 標籤? 這項操作將無法復原"
+
+#: templates/default/bbpress/form-topic.php:43
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "在 &ldquo;%s&rdquo; 建立一篇新話題"
+
+#: templates/default/bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr "這個討論區已被標記為關閉，不過您的發表權限仍然允許您進行發佈"
+
+#: templates/default/bbpress/form-topic.php:75
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "話題名稱（最大長度為 : %d 個字元）:"
+
+#: templates/default/bbpress/form-topic.php:101
+msgid "Topic Tags:"
+msgstr "話題標籤 :"
+
+#: templates/default/bbpress/form-topic.php:133
+msgid "Topic Type:"
+msgstr "話題類型 :"
+
+#: templates/default/bbpress/form-topic.php:145
+msgid "Topic Status:"
+msgstr "話題狀態 :"
+
+#: templates/default/bbpress/form-topic.php:234
+msgid "You cannot create new topics."
+msgstr "您無法建立新話題"
+
+#: templates/default/bbpress/form-topic.php:234
+msgid "You must be logged in to create new topics."
+msgstr "您必須先登錄才能發表新的話題"
+
+#: templates/default/bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr "姓氏"
+
+#: templates/default/bbpress/form-user-edit.php:29
+msgid "Last Name"
+msgstr "名字"
+
+#: templates/default/bbpress/form-user-edit.php:34
+msgid "Nickname"
+msgstr "暱稱"
+
+#: templates/default/bbpress/form-user-edit.php:39
+msgid "Display Name"
+msgstr "顯示名稱"
+
+#: templates/default/bbpress/form-user-edit.php:49
+#: templates/default/bbpress/form-user-edit.php:52
+msgid "Contact Info"
+msgstr "聯絡資訊"
+
+#: templates/default/bbpress/form-user-edit.php:74
+#: templates/default/bbpress/form-user-edit.php:77
+msgid "About Yourself"
+msgstr "關於自己"
+
+#: templates/default/bbpress/form-user-edit.php:74
+#: templates/default/bbpress/form-user-edit.php:77
+msgid "About the user"
+msgstr "關於用戶"
+
+#: templates/default/bbpress/form-user-edit.php:82
+msgid "Biographical Info"
+msgstr "個人簡介"
+
+#: templates/default/bbpress/form-user-edit.php:90
+#: templates/default/bbpress/form-user-edit.php:93
+msgid "Account"
+msgstr "帳號"
+
+#: templates/default/bbpress/form-user-edit.php:115
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s"
+"\">Cancel</a>"
+msgstr ""
+"有一個待處理的電子郵件地址變更為<code>%1$s</code>. <a href=\"%2$s\">取消</a>"
+
+#: templates/default/bbpress/form-user-edit.php:124
+msgid "New Password"
+msgstr "新密碼"
+
+#: templates/default/bbpress/form-user-edit.php:127
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr "如果您想更改密碼請輸入一組新密碼。或維持空白不做更動"
+
+#: templates/default/bbpress/form-user-edit.php:130
+msgid "Type your new password again."
+msgstr "再次輸入您的新密碼"
+
+#: templates/default/bbpress/form-user-edit.php:133
+msgid ""
+"Your password should be at least ten characters long. Use upper and lower "
+"case letters, numbers, and symbols to make it even stronger."
+msgstr "您的密碼應至少為10個字元。使用大寫和小寫字母，數字和符號，使之更加安全"
+
+#: templates/default/bbpress/form-user-edit.php:143
+#: templates/default/bbpress/form-user-edit.php:146
+msgid "User Role"
+msgstr "用戶角色"
+
+#: templates/default/bbpress/form-user-edit.php:153
+msgid "Network Role"
+msgstr "網路角色"
+
+#: templates/default/bbpress/form-user-edit.php:156
+msgid "Grant this user super admin privileges for the Network."
+msgstr "授予這個用戶超級管理員的網路權限"
+
+#: templates/default/bbpress/form-user-edit.php:178
+msgid "Update Profile"
+msgstr "更新個人檔案"
+
+#: templates/default/bbpress/form-user-edit.php:178
+msgid "Update User"
+msgstr "更新用戶"
+
+#: templates/default/bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr "保持登錄狀態"
+
+#: templates/default/bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr "用戶名或電子信箱"
+
+#: templates/default/bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr "重置我的密碼"
+
+#: templates/default/bbpress/form-user-register.php:14
+msgid "Create an Account"
+msgstr "建立帳號"
+
+#: templates/default/bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr "您的用戶名必須是唯一的，而且以後將無法變更"
+
+#: templates/default/bbpress/form-user-register.php:18
+msgid ""
+"We use your email address to email you a secure password and verify your "
+"account."
+msgstr "我們將透過您的電子郵件為您發送電子郵件安全密碼，並驗證您的帳號"
+
+#: templates/default/bbpress/form-user-roles.php:13
+msgid "Blog Role"
+msgstr "部落格角色"
+
+#: templates/default/bbpress/loop-search-forum.php:16
+msgid "Last updated %s"
+msgstr "近期更新 %s"
+
+#: templates/default/bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr "討論區 : "
+
+#: templates/default/bbpress/loop-search-reply.php:24
+msgid "In reply to: "
+msgstr "答覆 :"
+
+#: templates/default/bbpress/loop-search-topic.php:26
+msgid "Topic: "
+msgstr "話題 : "
+
+#: templates/default/bbpress/loop-search-topic.php:33
+msgid "in group forum "
+msgstr "在群組討論區"
+
+#: templates/default/bbpress/loop-search-topic.php:37
+msgid "in forum "
+msgstr "在討論區"
+
+#: templates/default/bbpress/loop-search.php:22
+#: templates/default/bbpress/loop-search.php:44
+msgid "Search Results"
+msgstr "搜尋結果"
+
+#: templates/default/bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr "回覆在 : "
+
+#: templates/default/bbpress/loop-single-topic.php:60
+msgid "Started by: %1$s"
+msgstr "發表人 : %1$s"
+
+#: templates/default/bbpress/loop-single-topic.php:68
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "在 : <a href=\"%1$s\">%2$s</a>"
+
+#: templates/default/bbpress/user-details.php:29
+#: templates/default/bbpress/user-profile.php:15
+msgid "Profile"
+msgstr "個人檔案"
+
+#: templates/default/bbpress/user-details.php:35
+msgid "%s's Topics Started"
+msgstr "%s的發文數"
+
+#: templates/default/bbpress/user-details.php:41
+msgid "%s's Replies Created"
+msgstr "%s的回覆數"
+
+#: templates/default/bbpress/user-favorites.php:15
+msgid "Favorite Forum Topics"
+msgstr "收藏討論區話題"
+
+#: templates/default/bbpress/user-favorites.php:28
+msgid "You currently have no favorite topics."
+msgstr "您目前沒有收藏任何話題"
+
+#: templates/default/bbpress/user-favorites.php:28
+msgid "This user has no favorite topics."
+msgstr "這個用戶還未收藏任何話題"
+
+#: templates/default/bbpress/user-profile.php:24
+msgid "Forum Role: %s"
+msgstr "討論區角色 : %s"
+
+#: templates/default/bbpress/user-profile.php:25
+msgid "Topics Started: %s"
+msgstr "發文數 : %s"
+
+#: templates/default/bbpress/user-profile.php:26
+msgid "Replies Created: %s"
+msgstr "回覆數 : %s"
+
+#: templates/default/bbpress/user-replies-created.php:15
+msgid "Forum Replies Created"
+msgstr "討論區回覆數"
+
+#: templates/default/bbpress/user-replies-created.php:28
+msgid "You have not replied to any topics."
+msgstr "您還沒有回覆任何話題"
+
+#: templates/default/bbpress/user-replies-created.php:28
+msgid "This user has not replied to any topics."
+msgstr "這個用戶還未回覆任何話題"
+
+#: templates/default/bbpress/user-subscriptions.php:19
+msgid "Subscribed Forums"
+msgstr "已訂閱論壇"
+
+#: templates/default/bbpress/user-subscriptions.php:28
+msgid "You are not currently subscribed to any forums."
+msgstr "您目前沒有訂閱任何論壇"
+
+#: templates/default/bbpress/user-subscriptions.php:28
+msgid "This user is not currently subscribed to any forums."
+msgstr "這個用戶目前未訂閱任何論壇"
+
+#: templates/default/bbpress/user-subscriptions.php:47
+msgid "You are not currently subscribed to any topics."
+msgstr "您目前沒有訂閱任何話題"
+
+#: templates/default/bbpress/user-subscriptions.php:47
+msgid "This user is not currently subscribed to any topics."
+msgstr "這個用戶目前沒有訂閱任何話題"
+
+#: templates/default/bbpress/user-topics-created.php:15
+msgid "Forum Topics Started"
+msgstr "討論區發文數"
+
+#: templates/default/bbpress/user-topics-created.php:28
+msgid "You have not created any topics."
+msgstr "您還沒有發表任何話題"
+
+#: templates/default/bbpress/user-topics-created.php:28
+msgid "This user has not created any topics."
+msgstr "這個用戶還沒有發表任何話題"
+
+#: templates/default/bbpress-functions.php:248
+#: templates/default/bbpress-functions.php:257
+msgid "Something went wrong. Refresh your browser and try again."
+msgstr "發生了一些錯誤。重新整理瀏覽器，然後再試一次"
+
+#: templates/default/bbpress-functions.php:285
+#: templates/default/bbpress-functions.php:421
+msgid "Subscriptions are no longer active."
+msgstr "訂閱已失效"
+
+#: templates/default/bbpress-functions.php:290
+msgid "Please login to subscribe to this forum."
+msgstr "要訂閱此討論區請先登錄"
+
+#: templates/default/bbpress-functions.php:299
+#: templates/default/bbpress-functions.php:367
+#: templates/default/bbpress-functions.php:435
+msgid "You do not have permission to do this."
+msgstr "你沒有權限執行此操作"
+
+#: templates/default/bbpress-functions.php:307
+msgid "The forum could not be found."
+msgstr "無法找到該討論區"
+
+#: templates/default/bbpress-functions.php:312
+#: templates/default/bbpress-functions.php:380
+#: templates/default/bbpress-functions.php:448
+msgid "Are you sure you meant to do that?"
+msgstr "確定要執行嗎?"
+
+#: templates/default/bbpress-functions.php:320
+#: templates/default/bbpress-functions.php:388
+#: templates/default/bbpress-functions.php:456
+msgid "The request was unsuccessful. Please try again."
+msgstr "動作未完成。請再試一次"
+
+#: templates/default/bbpress-functions.php:353
+msgid "Favorites are no longer active."
+msgstr "收藏已失效"
+
+#: templates/default/bbpress-functions.php:358
+msgid "Please login to make this topic a favorite."
+msgstr "收藏話題前請先登入"
+
+#: templates/default/bbpress-functions.php:375
+#: templates/default/bbpress-functions.php:443
+msgid "The topic could not be found."
+msgstr "無法找到該話題"
+
+#: templates/default/bbpress-functions.php:426
+msgid "Please login to subscribe to this topic."
+msgstr "要訂閱此話題請先登錄"
+
+#: templates/default/extras/page-forum-statistics.php:22
+msgid "<p>Here are the statistics and popular topics of our forums.</p>"
+msgstr "<p>這裡是論壇熱門話題和統計</p>"
+
+#: templates/default/extras/page-topic-tags.php:22
+msgid ""
+"<p>This is a collection of tags that are currently popular on our forums.</p>"
+msgstr "<p>這裡是論壇目前熱門討論區的整合標籤</p>"
+
+#. Plugin Name of the plugin/theme
+msgid "bbPress"
+msgstr "bbPress"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://bbpress.org"
+msgstr "http://bbpress.org"
+
+#. Description of the plugin/theme
+msgid "bbPress is forum software with a twist from the creators of WordPress."
+msgstr "bbPress 是一款可將 WordPress 轉變成論壇的軟體"
+
+#. Author of the plugin/theme
+msgid "The bbPress Community"
+msgstr "bbPress 社群"
